@@ -14,14 +14,17 @@ from prompts.title_abstract_prompts import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE
 
 def extract_title_abstract_with_llm(text, model=None):
     """
-    Extract title and abstract from text using LLM.
+    Extract title and abstract from text using LLM, with confidence scores.
     
     Args:
         text: Text containing title and abstract to extract
         model: LLM model to use (default from config)
         
     Returns:
-        Tuple of (title, abstract)
+        Tuple of (title, abstract, confidence_info) where:
+        - title: The extracted title
+        - abstract: The extracted abstract
+        - confidence_info: Dictionary with confidence scores and explanation
     """
     # Use model from arguments or fall back to config
     if model is None:
@@ -67,17 +70,36 @@ def extract_title_abstract_with_llm(text, model=None):
     
     # If we still have no response after all retries
     if response_text is None:
-        return "Error: Failed to extract title", "Error: Failed to extract abstract"
+        return "EXTRACTION_FAILED", "EXTRACTION_FAILED", {
+            "title_score": 0,
+            "abstract_score": 0,
+            "explanation": "Failed to get response from LLM"
+        }
 
     try:
         parsed = json.loads(response_text)
         
+        # Extract data from JSON response
         title = parsed.get("title", "").strip()
         abstract = parsed.get("abstract", "").strip()
         debug_text = parsed.get("debug_text", "").strip()
         
-        return title, abstract
+        # Extract confidence information
+        confidence_info = parsed.get("confidence", {})
+        if not confidence_info:
+            # Provide default confidence if not present
+            confidence_info = {
+                "title_score": 1 if title == "EXTRACTION_FAILED" else 3,
+                "abstract_score": 1 if abstract == "EXTRACTION_FAILED" else 3,
+                "explanation": "No confidence info provided by model"
+            }
+        
+        return title, abstract, confidence_info
     
     except json.JSONDecodeError:
         print(f"Failed to parse LLM response as JSON: {response_text[:100]}...")
-        return "Error: JSON parse error", "Error: JSON parse error"
+        return "EXTRACTION_FAILED", "EXTRACTION_FAILED", {
+            "title_score": 0,
+            "abstract_score": 0,
+            "explanation": "JSON parse error in LLM response"
+        }

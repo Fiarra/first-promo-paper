@@ -53,6 +53,10 @@ class ConfigLoader:
         # Deep merge the profile config into the default config
         self._deep_update(self.config, profile_config)
         self.loaded_profile = profile_name
+        
+        # Store the loaded profile name in the config itself
+        self.config["_loaded_profile"] = profile_name
+        
         return True
     
     def get(self, key_path: str, default: Any = None) -> Any:
@@ -85,6 +89,15 @@ class ConfigLoader:
             The complete configuration dictionary
         """
         return self.config
+    
+    def get_profile_name(self) -> str:
+        """
+        Get the name of the currently loaded profile.
+        
+        Returns:
+            Name of the loaded profile or "default" if none
+        """
+        return self.loaded_profile or "default"
     
     def _deep_update(self, base_dict: Dict[str, Any], update_dict: Dict[str, Any]) -> None:
         """
