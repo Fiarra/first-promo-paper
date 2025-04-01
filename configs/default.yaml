@@ -1,0 +1,39 @@
+# Default Configuration for PDF Processing Pipeline
+
+# Data paths
+paths:
+  data_dir: "../data/batches"
+  output_dir: "../outputs"
+  
+# PDF processing settings
+pdf:
+  rename:
+    enabled: true
+    prefix: "paper"
+  extraction:
+    full_text: true
+    page_limit_for_metadata: 2
+    
+# LLM settings
+llm:
+  provider: "openai"  # future options could include "anthropic", "local", etc.
+  model: "gpt-4o-mini"  # Default model
+  fallback_model: "gpt-3.5-turbo"  # Fallback if primary model fails
+  max_input_tokens: 3000  # Truncate text to this length for LLM
+  
+# Processing settings
+processing:
+  batch_size: 10  # Process this many papers at once for multiprocessing
+  error_handling:
+    max_retries: 3
+    retry_delay: 5  # seconds
+  
+# Output settings
+output:
+  format: "csv"  # could be "json", "sqlite" in the future
+  fields:
+    - "document_id"
+    - "title"
+    - "abstract"
+    - "raw_text"
+  include_confidence_scores: false  # future feature 

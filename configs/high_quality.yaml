@@ -1,0 +1,14 @@
+# High-quality processing profile
+# Uses more capable models and more thorough processing settings
+
+llm:
+  model: "gpt-4o"  # Use the most capable model
+  max_input_tokens: 8000  # Use more context for better extraction
+
+pdf:
+  extraction:
+    page_limit_for_metadata: 5  # Look at more pages for better metadata extraction
+
+processing:
+  error_handling:
+    max_retries: 5  # More retries to ensure success 

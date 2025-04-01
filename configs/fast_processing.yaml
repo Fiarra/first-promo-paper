@@ -1,0 +1,16 @@
+# Fast processing profile
+# Optimized for speed rather than quality
+
+llm:
+  model: "gpt-3.5-turbo"  # Faster, cheaper model
+  max_input_tokens: 2000  # Smaller context window for speed
+
+pdf:
+  extraction:
+    full_text: false  # Only extract text for metadata, not full content
+    page_limit_for_metadata: 1  # Only look at first page for speed
+
+processing:
+  batch_size: 20  # Process more papers at once
+  error_handling:
+    max_retries: 1  # Less retries for faster processing 

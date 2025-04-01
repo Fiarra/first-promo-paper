@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+
+This is the overall aim of this project:
+
+Systematic literature reviews (SLRs) remain vital in academic research, providing an exhaustive overview of existing knowledge (Snyder, 2019). However, as the volume of scholarly work expands across diverse fields, conducting SLRs becomes increasingly time-intensive and complex. Concurrently, advancements in Large Language Models (LLMs) have shown promise in efficiently processing extended and specialized texts. Although these tools have been successfully employed in medical and psychological research to facilitate screening for relevance (Khalil et al., 2021), comparatively little attention has been paid to their application in social sciences, where methodological and contextual boundaries are often more fluid.
+Recent findings suggest that LLMs can serve as “complementary reviewers,” particularly for title and abstract screening (Landschaft et al., 2024). Such automated assistance could significantly reduce the laborious nature of manual screening, which commonly demands the largest portion of a reviewer’s time. Yet social science literature varies greatly in methodology and conceptual clarity, casting doubt on whether LLMs can achieve the same reliability and validity demonstrated in more standardized fields.
+This paper aims to extend the use of LLMs into social science SLRs by focusing on automating the title and abstract screening process. Drawing on proven approaches from medical contexts, these techniques will be adapted and refined to suit the methodological and thematic nuances of social sciences. An existing manual review will serve as the “gold standard” against which the LLM-based screening is compared, allowing for an assessment of the tool’s ability to replicate human inclusion and exclusion decisions. The results will offer insights into whether LLMs can function as robust complementary reviewers in social science research, ultimately contributing to a broader framework for integrating machine-assisted screening into SLR workflows.
+
+
