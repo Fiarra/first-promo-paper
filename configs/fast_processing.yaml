@@ -7,8 +7,8 @@ llm:
 
 pdf:
   extraction:
-    full_text: false  # Only extract text for metadata, not full content
-    page_limit_for_metadata: 1  # Only look at first page for speed
+    full_text: true  # Only extract text for metadata, not full content
+    page_limit_for_metadata: 2  # Only look at first page for speed
 
 processing:
   batch_size: 20  # Process more papers at once
