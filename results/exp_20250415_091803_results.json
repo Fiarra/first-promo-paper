@@ -1,0 +1,48 @@
+{
+  "experiment_id": "exp_20250415_091803",
+  "timestamp": "2025-04-15T09:25:19.055414",
+  "configuration": {
+    "llm": {
+      "model": "gpt-4o",
+      "max_input_tokens": 8000
+    },
+    "pdf": {
+      "extraction": {
+        "page_limit_for_metadata": 5,
+        "full_text": true
+      }
+    }
+  },
+  "prompts": {
+    "system_prompt": "\nYou are an expert in analyzing academic texts and extracting bibliographic information.\nYour task is to accurately identify the title and abstract of scientific papers, \nand provide an assessment of your confidence in the extraction.\n",
+    "user_prompt_template": "\nYou will receive text from a scientific paper, which contains a title and potentially an abstract.\nExtract these fields from the text and provide a confidence score for each extraction.\n\nReturn ONLY valid JSON in the format below (and nothing else).\nDo not include triple backticks, code blocks, or any additional markdown:\n\n{{\n  \"title\": \"...\",\n  \"abstract\": \"...\",\n  \"confidence\": {{\n    \"title_score\": <number between 1-5>,\n    \"abstract_score\": <number between 1-5>,\n    \"explanation\": \"Brief explanation of your confidence assessment\"\n  }},\n  \"debug_text\": \"First 50 chars of the text you're analyzing\"\n}}\n\nConfidence Score Guidelines:\n5: Extremely confident - Clearly identified with explicit section headers\n4: Very confident - Strong evidence this is correct with clear structure\n3: Moderately confident - Reasonable guess but some ambiguity\n2: Low confidence - Significant uncertainty but made best guess\n1: Very low confidence - Unable to reliably identify\n\nIf you cannot find a title or abstract, use \"EXTRACTION_FAILED\" as that field's value and provide an explanation in the confidence section.\n\nHere is the text to analyze:\n\"\"\"{text}\"\"\"\n"
+  },
+  "timing": {
+    "total_processing_time_seconds": 57.556227,
+    "average_extraction_time_seconds": 5.232214363636364,
+    "min_extraction_time_seconds": 3.819433,
+    "max_extraction_time_seconds": 6.770239,
+    "extraction_times_seconds": [
+      6.770239,
+      4.292977,
+      6.575895,
+      4.921294,
+      5.467513,
+      4.52029,
+      5.263355,
+      3.819433,
+      5.53117,
+      5.12879,
+      5.263402
+    ]
+  },
+  "results": {
+    "total_papers": 11,
+    "successful_title_extractions": 11,
+    "successful_abstract_extractions": 11,
+    "title_success_rate": 100.0,
+    "abstract_success_rate": 100.0,
+    "failed_extractions": [],
+    "error_patterns": {}
+  }
+}
