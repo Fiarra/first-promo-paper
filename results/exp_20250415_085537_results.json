@@ -1,0 +1,29 @@
+{
+  "total_papers": 10,
+  "successful_title_extractions": 10,
+  "successful_abstract_extractions": 6,
+  "failed_extractions": [
+    {
+      "file": "paper_002.pdf",
+      "title_failed": false,
+      "abstract_failed": true
+    },
+    {
+      "file": "paper_006.pdf",
+      "title_failed": false,
+      "abstract_failed": true
+    },
+    {
+      "file": "paper_007.pdf",
+      "title_failed": false,
+      "abstract_failed": true
+    },
+    {
+      "file": "paper_008.pdf",
+      "title_failed": false,
+      "abstract_failed": true
+    }
+  ],
+  "error_patterns": {},
+  "processing_times": []
+}
