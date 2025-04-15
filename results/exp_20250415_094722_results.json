@@ -1,0 +1,89 @@
+{
+  "experiment_id": "exp_20250415_094722",
+  "timestamp": "2025-04-15T09:55:39.858180",
+  "configuration": {
+    "llm": {
+      "model": "gpt-4o",
+      "max_input_tokens": 8000
+    },
+    "pdf": {
+      "extraction": {
+        "page_limit_for_metadata": 5,
+        "full_text": true
+      }
+    }
+  },
+  "prompts": {
+    "prompt_file": "title_abstract_prompts",
+    "system_prompt": "\nYou are an expert in analyzing academic texts and extracting bibliographic information.\nYour task is to accurately identify the title and abstract of scientific papers, \nand provide an assessment of your confidence in the extraction.\n",
+    "user_prompt_template": "\nYou will receive text from a scientific paper, which contains a title and potentially an abstract.\nExtract these fields from the text and provide a confidence score for each extraction.\n\nReturn ONLY valid JSON in the format below (and nothing else).\nDo not include triple backticks, code blocks, or any additional markdown:\n\n{{\n  \"title\": \"...\",\n  \"abstract\": \"...\",\n  \"confidence\": {{\n    \"title_score\": <number between 1-5>,\n    \"abstract_score\": <number between 1-5>,\n    \"explanation\": \"Brief explanation of your confidence assessment\"\n  }},\n  \"debug_text\": \"First 50 chars of the text you're analyzing\"\n}}\n\nConfidence Score Guidelines:\n5: Extremely confident - Clearly identified with explicit section headers\n4: Very confident - Strong evidence this is correct with clear structure\n3: Moderately confident - Reasonable guess but some ambiguity\n2: Low confidence - Significant uncertainty but made best guess\n1: Very low confidence - Unable to reliably identify\n\nIf you cannot find a title or abstract, use \"EXTRACTION_FAILED\" as that field's value and provide an explanation in the confidence section.\n\nHere is the text to analyze:\n\"\"\"{text}\"\"\"\n"
+  },
+  "timing": {
+    "total_processing_time_seconds": 220.845489,
+    "average_extraction_time_seconds": 5.521068999999999,
+    "min_extraction_time_seconds": 2.38998,
+    "max_extraction_time_seconds": 10.045901,
+    "extraction_times_seconds": [
+      3.686253,
+      4.003543,
+      4.878116,
+      5.301182,
+      5.445976,
+      4.579554,
+      6.147609,
+      8.039551,
+      3.038646,
+      5.343561,
+      4.770503,
+      4.584058,
+      4.24321,
+      4.99221,
+      5.506588,
+      6.458569,
+      4.216612,
+      4.324351,
+      2.38998,
+      3.798978,
+      3.5579,
+      4.441798,
+      10.045901,
+      4.840416,
+      6.460545,
+      6.629656,
+      7.291612,
+      6.334794,
+      5.663717,
+      4.925923,
+      5.136341,
+      7.150554,
+      5.625518,
+      9.34571,
+      5.628643,
+      8.580953,
+      7.228571,
+      4.691976,
+      5.015625,
+      6.497557
+    ]
+  },
+  "results": {
+    "total_papers": 40,
+    "successful_title_extractions": 40,
+    "successful_abstract_extractions": 38,
+    "title_success_rate": 100.0,
+    "abstract_success_rate": 95.0,
+    "failed_extractions": [
+      {
+        "file": "paper_001.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_023.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      }
+    ],
+    "error_patterns": {}
+  }
+}

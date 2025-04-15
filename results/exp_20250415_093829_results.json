@@ -1,0 +1,129 @@
+{
+  "experiment_id": "exp_20250415_093829",
+  "timestamp": "2025-04-15T09:45:48.570657",
+  "configuration": {
+    "llm": {
+      "model": "gpt-3.5-turbo",
+      "max_input_tokens": 2000
+    },
+    "pdf": {
+      "extraction": {
+        "page_limit_for_metadata": 4,
+        "full_text": true
+      }
+    }
+  },
+  "prompts": {
+    "prompt_file": "title_abstract_prompts",
+    "system_prompt": "\nYou are an expert in analyzing academic texts and extracting bibliographic information.\nYour task is to accurately identify the title and abstract of scientific papers, \nand provide an assessment of your confidence in the extraction.\n",
+    "user_prompt_template": "\nYou will receive text from a scientific paper, which contains a title and potentially an abstract.\nExtract these fields from the text and provide a confidence score for each extraction.\n\nReturn ONLY valid JSON in the format below (and nothing else).\nDo not include triple backticks, code blocks, or any additional markdown:\n\n{{\n  \"title\": \"...\",\n  \"abstract\": \"...\",\n  \"confidence\": {{\n    \"title_score\": <number between 1-5>,\n    \"abstract_score\": <number between 1-5>,\n    \"explanation\": \"Brief explanation of your confidence assessment\"\n  }},\n  \"debug_text\": \"First 50 chars of the text you're analyzing\"\n}}\n\nConfidence Score Guidelines:\n5: Extremely confident - Clearly identified with explicit section headers\n4: Very confident - Strong evidence this is correct with clear structure\n3: Moderately confident - Reasonable guess but some ambiguity\n2: Low confidence - Significant uncertainty but made best guess\n1: Very low confidence - Unable to reliably identify\n\nIf you cannot find a title or abstract, use \"EXTRACTION_FAILED\" as that field's value and provide an explanation in the confidence section.\n\nHere is the text to analyze:\n\"\"\"{text}\"\"\"\n"
+  },
+  "timing": {
+    "total_processing_time_seconds": 176.481268,
+    "average_extraction_time_seconds": 4.411966574999999,
+    "min_extraction_time_seconds": 1.69367,
+    "max_extraction_time_seconds": 11.527492,
+    "extraction_times_seconds": [
+      5.425762,
+      2.142815,
+      8.661399,
+      11.527492,
+      3.48083,
+      7.312099,
+      5.313385,
+      3.783879,
+      2.070214,
+      2.26345,
+      2.689582,
+      4.975093,
+      3.252555,
+      4.948916,
+      4.7435,
+      4.919426,
+      6.168342,
+      3.100025,
+      2.351939,
+      2.771087,
+      2.345847,
+      4.126112,
+      2.568686,
+      1.69367,
+      3.002028,
+      3.244329,
+      2.463649,
+      3.661337,
+      11.130384,
+      10.816853,
+      3.518555,
+      3.402321,
+      3.810881,
+      4.275388,
+      2.983159,
+      3.379954,
+      3.898928,
+      4.370511,
+      3.084217,
+      6.800064
+    ]
+  },
+  "results": {
+    "total_papers": 40,
+    "successful_title_extractions": 40,
+    "successful_abstract_extractions": 30,
+    "title_success_rate": 100.0,
+    "abstract_success_rate": 75.0,
+    "failed_extractions": [
+      {
+        "file": "paper_001.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_002.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_004.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_005.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_010.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_013.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_016.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_018.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_024.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      },
+      {
+        "file": "paper_029.pdf",
+        "title_failed": false,
+        "abstract_failed": true
+      }
+    ],
+    "error_patterns": {}
+  }
+}
