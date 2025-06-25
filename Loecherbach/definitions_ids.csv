@@ -1,0 +1,1256 @@
+"","ID","loop_concept","def","cit","actor","viewpoint","topic","outlet","other"
+"1","000049@2018.nl","div","As noted by Van Cuilenburg (1999, 188), content diversity corresponds to the “heterogeneity
+of media content in terms of one or more specified characteristics”.
+
+This conceptualisation, originally proposed by McQuail and Van
+Cuilenburg (1983), is similar to the one used by Baden and Springer (2015) and by Benson
+(2009, 406), who defines content diversity in terms of “institutional” and “ideological multiperspectivalness”.
+Similarly, Voakes et al. (1996) examine content diversity as the variety of
+news sources and the dispersion of viewpoints in the news.","McQuail and Van Cuilenburg (1983)
+Baden and Springer (2015)
+Benson (2009, 406)
+Voakes et al. (1996)","actor diversity","viewpoint diversity",NA,NA,NA
+"2","000063@2018.nl","div","Media agenda diversity can be conceptualized as the distribution of attention among
+a given set of discrete object categories in a news discourse (Tan and Weaver, 2013).","Tan and Weaver, 2013","companies in the media agenda",NA,NA,NA,NA
+"3","000142@2018.nl","div","Napoli defines three different dimensions of
+information diversity; source diversity, content diversity, and exposure diversity:
+- Source diversity is defined as the diversity in outlets, program owners or top
+URLs visited in this case.
+- Content diversity is characterized by diversity in content format, demographic
+(racial, gender, ethnic) and idea-viewpoint (social, cultural, and political).
+- Exposure diversity is defined by audience reached and that users consumed a
+diverse set of items.","Bozdag et al. (2014)
+Napoli (1999)",NA,NA,NA,NA,NA
+"4","000143@2018.nl","div","We use diversity to refer to having
+used at least one left-leaning and one right-leaning online news source in the last
+week. This is therefore a measure of “horizontal” diversity, as it refers to diversity of
+news sources, rather than the “vertical” diversity that may be found within content
+from the same source (Hellman 2001)",NA,NA,"political diversity",NA,NA,NA
+"5","000149@2018.nl","div","The normative claim behind these understandings of news diversity is that news media should reflect a variety of perspectives within debates (Benson 2013; van Hoof et al. 2014).
+Based on this understanding, many studies consider the diversity of political (elite) actors represented in the news media (Ho and Quinn 2009; Pritchard 2002). They investi- gate the diversity of speakers in the news coverage produced by individual outlets to
+determine whether there is a balanced representation of political interests
+
+Another understanding of diversity underlying these two models is operationalized as viewpoint diversity (Ho and Quinn 2009; Pritchard 2002). It is argued that different interpretations of a complex reality can exist simultaneously and that the level of careful reflection on these interpretations is a crucial measure of a debate’s quality.
+
+Finally, it is important to recognize that different understandings of diversity depend on the normative perspective taken, which in turn affects empirical measurements of diver- sity (van Cuilenburg 2007).","van Cuilenburg 2007; Benson 2013; van Hoof et al. 2014; Ho and Quinn 2009; Pritchard 2002","diversity of actors","diversity of viewpoints",NA,NA,"diversity of regions"
+"6","000243@2018.nl","div","The micro layer refers to the content that materialises the function of media. In this discourse, diversity means that ultimately several dif- ferent viewpoints are represented by the media, and the macro and meso layers are tools to achieve this end.36 (In contrast to this view, Edwin Baker holds that ‘source diversity—effectively ownership dispersal—is directly and substantively central’.37)
+
+Beyond these three layers it is worth introducing a fourth layer: the user level. Others have called this exposure diversity,38 or as Peggy Valcke formulated the three levels: pluralism of supply, distribution and use.39 
+","Baker, C.E.: Media Concentration and Democracy: Why Ownership Matters. Cambridge University Press, Cambridge (2006)
+van Cuilenburg, J.: Media diversity, competition and concentration: concepts and theories. In: de Bens, E. (ed.) Media Between Culture and Commerce. Intellect Books (2000)
+Valcke, P.: Looking for the user in media pluralism regulation: the potential and limits of regulating
+exposure diversity. J. Inf. Policy 1, 287–320 (2011)
+Helberger, N.: Diversity by design. J. Inf. Policy 1, 441–469 (2011)
+Hitchens, L.: Media regulatory frameworks in the age of broadband: securing diversity. J. Inf. Policy
+1, 217–240 (2011)
+Napoli, P.M.: Exposure diversity reconsidered. J. Inf. Policy 1, 246–259 (2011)","","different viewpoints","","ownership dispersal/source diversity",""
+"7","000287@2018.nl","div","Whereas diversity in the social scientific debate is often conceptualized
+as inclusion of counter-attitudinal information (Pariser, 2011), in computer science it is
+considered a necessary design element, often conceptualized as the inclusion of unexpected
+items. Diversity is mostly modeled and conceptualized at the input level in computer
+science, whereas social scientists analyze diversity primarily at the output level:
+Whereas the former study how to optimize the inclusion of surprising or unexpected
+items, social scientists focus on the overall output of a recommender system and assess
+its diversity (Sørensen & Schmidt, 2016).
+
+In reality, news content diversity is a far richer, and far more complex phenomenon
+(see, e.g. Helberger et al., 2018; Sørensen & Schmidt, 2016; Masini et al., 2017;
+Napoli, 2015). As Van Cuilenburg (1999) puts it, diversity defines the ‘heterogeneity
+of media content in terms of one or more specified characteristics’ (p. 188). In the
+context of media policy, diversity is often defined and measured as diversity of
+sources in a media market (e.g. The Media Pluralism Monitor in Europe or the
+FTC’s controversial Diversity Index; Napoli, 2015; Karppinen, 2013).
+
+More practically, most of the existing approaches
+look at media markets in their entirety (external diversity) (Karppinen, 2015), and
+less at the diversity within a particular outlet (internal diversity). Obviously, assessing
+the diversity of the results of personalized recommendations requires an assessment
+at the (internal) level of the recommendation, or respectively the output of a
+personalized recommendation1.","Helberger et al., 2018; Sørensen & Schmidt, 2016; Masini et al., 2017;
+Napoli, 2015; Van Cuilenburg (1999); Karppinen, 2013; Karppinen, 2015; Pariser, 2011",NA,NA,"diversity of topics",NA,NA
+"8","000291@2018.nl","div","As explained by Rennhoff and Wilbur (2014), media diversity is a multidimensional concept because it regards the source of content (for example, how many media companies are active in a specific industry), the characteristics of content (which topics are covered and the space devoted to each topic), and the way content is presented (viewpoint diversity).
+
+The methodology of this paper is similar to that used by George and Gee (2011), who consider the issues covered in news programmes in order to calculate an index of media diversity. However, our contribution differs from previous studies in two respects. Firstly, our concept of “social pluralism” lies between content diversity and viewpoint diversity, since we consider the distribution of the TV airtime across different social actors.","Rennhoff and Wilbur (2014)","content/viewpoint diversity",NA,NA,NA,NA
+"9","000341@2018.nl","div","In the following, we first conceptualize the net diversity with regard to the extent to
+which a diverse array of information is consumed by individuals and consider prior
+works on the digital disparities with regard to various aspects of Internet use and
+access (DiMaggio, Hargittai, Neuman, & Robinson, 2001; Neuman, Bimber, &
+Hindman, 2011; Van Dijk, 2012).
+
+To examine these issues, we explicate the notion of Internet diversity in
+terms of actual use (Hindman, 2008; Napoli, 2011a)","DiMaggio, Hargittai, Neuman, & Robinson, 2001; Neuman, Bimber, &
+Hindman, 2011; Van Dijk, 2012; Hindman, 2008; Napoli, 2011a",NA,NA,NA,NA,"Net diversity"
+"10","000421@2018.nl","div","Media diversity, a key independent variable in this
+study, is concerned with the number of media in a person’s’ repertoire. The greater the
+number of media a citizen uses the more the opportunity to be exposed to differing political
+opinions and news
+
+not all media are used in the same way and for
+the same content, which means that as media diversity increases, there is also an increase
+in the diversity of content",NA,NA,NA,NA,"number of media in a person's repertoire",NA
+"11","000467@2018.nl","div","By political viewpoint diversity we mean the presentation or representation of two or more political
+perspectives in the news: the more political perspectives that are represented, the more
+the diversity in the news.
+
+Diversity is sometimes discussed in terms of diverse
+media outlets. Also called structural pluralism and outlet diversity, here a diversity of
+news organizations is seen as a means to add diverse voices to a marketplace of ideas
+(Hallin and Mancini 2004; Napoli 2007).","Hallin and Mancini 2004; Napoli 2007",NA,"political viewpoint diversity",NA,NA,NA
+"12","000532@2018.nl","div","News diversity is a multi-faceted construct that is subject to various interpretations.
+First, diversity can aim at a multitude of sources. Such source diversity describes the pluralism
+of quoted actors’ affiliations or status positions
+
+Yet, source diversity may also depict the variety of news outlets
+which are included in a recipient’s news diet, especially in the context of news aggregators
+(Thurman 2011). Second, diversity can refer to the variety of covered topics. This
+so-called content diversity oftentimes relates to the mere appearance of topics in their
+most basic form, such as “public affairs” or “baseball.” Yet, it may also include the multitude
+of perspectives, which ideally represent a democracy’s political spectrum of opinions
+(Entman and Wildman 1992).
+
+Third, diversity can relate to a variation of
+viewpoints (i.e., framing). This viewpoint diversity subsumes available frames on a given
+topic and is thus clearly the most demanding type of diversity, both for journalists to produce
+and for researchers to measure (Baden and Springer 2015)","Baden and Springer 2015Voakes et al. 1996; Thurman 2011; Entman and Wildman 1992; ",NA,NA,NA,NA,NA
+"13","000610@2018.nl","div","As one of the central communication policy goals, diversity refers to the idea that in a democratic society informed citizens collect information about the world from a diverse mix of sources with different viewpoints so that they can make balanced and well-con- sidered decisions.
+
+As we discuss below, there is no commonly accepted definition of exposure diversity or the possible policy objectives behind it, even in aca- demic literature.
+
+Any initiative to promote more diverse exposure to information will first have to deal with the question of what ‘diverse exposure’ actually is. In debates on media diversity, exposure diversity is used to refer to the content that the audience actually selects, as opposed to all the content that is available (McQuail, 1992)
+
+discussions around media diversity have tended to focus primarily on the supply side (the aspects of source and content diversity) and questions of what would characterize a diverse market structure or diverse content offers (Helberger, 2012; Napoli, 1999; Valcke, 2011)
+
+Despite decades of debate on diver- sity as a policy objective, however, there is no consensus on a generally accepted, consist- ent definition of what constitutes ‘diversity’ or ‘pluralism’, even at the level of supply (Karppinen, 2013; Napoli, 1999; Neuberger & Lobgis, 2010; Valcke, 2004)
+
+Firstly, exposure diversity can be defended from the perspective of the traditional liberal ideals of individual autonomy and consumer choice. The possible benchmarks and criteria used to identify the desirable level and form of exposure diversity would thus include aspects such as user satisfaction and awareness of options and choices.
+
+Secondly, exposure to diverse information is commonly justified from the perspective of inclusive public debate. Possible benchmarks and criteria to assess exposure diversity from the deliberative perspective include the reciprocity and inclusive- ness of public discourse – meaning that debates should be open to all and participants should be willing to exchange ideas and viewpoints, and even change their opinion when faced with new arguments or evidence
+
+Thirdly, exposure diversity can also be justified from the perspective of more radical agon- istic or adversarial conceptions of democracy. Exposure diversity can be seen as a corrective to the tendency of public debates to be dominated by existing elites and powerful interests. This is achieved particularly by con- testing the boundaries of mainstream public debate and promoting exposure to critical voices and disadvantaged views that otherwise might be silenced in the public debate (see e.g., Young, 2000)
+
+the modern challenges to the realization of media diversity as a policy goal lie less and less in guaranteeing a diversity of supply, and more in the quest to create the conditions under which users can actually find and choose between diverse content (Burri, 2016; Helberger, 2012; Korthals, 2013, p. 35).
+
+However, these recent discussions again lack a clear normative conception of exposure diversity. Accordingly, acknowledging the need for such a normative discussion to inform not only law and policy-makers but also designers could be the first step. As Bernhard Rie- der (2009, p. 134) remarks, ‘without a clear normative standpoint it is difficult to formulate suggestions about how search ought to work","(McQuail, 1992); Helberger, 2012; Napoli, 1999; Valcke, 2011;Karppinen, 2013; Napoli, 1999; Neuberger & Lobgis, 2010; Valcke, 2004;Young, 2000;Burri, 2016; Helberger, 2012; Korthals, 2013; Rieder (2009)","","different viewpoints","","diverse mix of sources ",""
+"14","000837@2017.nl","div","analyse the problem of diversity – cultural diversity, diversity of cultural expressions and pluralism – in the global context
+
+Our perspective in this research is to assess, above all, the dimension of the communicational and cultural diversity of globalisation
+
+Therefore, cultural and media policies cannot be separated because the basic principle of both still is the diversity of sources of information, of media ownership and of the independence of public service.
+
+Will digital media be different from classic media regarding cultural diversity (using the concept in a broad sense) on the cultural, socio-economic and political spectrum? More specifically, in the context of the diversity of voices in the network, of political diversity and “polarisation”
+
+that is in our perspective, to realise the extent to which we can speak of “liberated voices” or of openness to the plurality and diversity of voices of the communities of citizens","","","diversity of voices","","","cultural diversity"
+"15","000874@2017.nl","div","Focusing on individual user-level analyses, this article specifically investigates the relationship between audiences’ exposure diversity (Napoli, 2011)—the degree to which audience members expose themselves to diverse and antagonistic viewpoints—and their democratic citizenship, including political knowledge and participation  Defining and measuring media diversity is an important task, but it has proven difficult (Barron, 2000; Einstein, 2004; Entman & Wildman, 1992). Recognizing its importance, Napoli (1999) divided diversity into 1) source diversity, 2) content diversity, and 3) exposure diversity.  Citizens are free to choose from a wide range of ideas (content diversity), delivered from a wide range of sources (source diversity). The citizens then partake of this diversity (exposure diversity) to increase their knowledge, encounter opposing viewpoints, and become well-informed decision-makers who are better capable of fulfilling their democratic responsibilities in a selfgoverning society. (p. 9), this paper empirically examines audiences’ exposure to diverse and antagonistic viewpoints","Wisdom Fund, 1997; Napoli, 2011; Barron, 2000; Einstein, 2004; Entman & Wildman, 1992;Napoli 1999",NA,"Politically diverse; exposure to diverse and antagonistic viewpoints",NA,NA,NA
+"16","000926@2017.nl","div","Second, we consider that there is value in considering the diversity of online news
+sharing in terms of socio-demographic indicators of high-profile social media accounts,
+or digital influencers, as these can assist us in investigating the relative representation of
+various ethnicities, the presence of minority, community and public service media, local
+and regional media in the sharing media system, and public participation via comments.
+
+Here we wanted to know what types of news were most
+shared internationally, as a way of gauging media diversity, and to reassess research
+that suggest audiences prefer soft, celebrity, sport and lifestyle-oriented content
+(Boczkowski and Peer 2011).
+
+This statement triggers many questions about how we
+might then analyse the diversity of any one media system; about measuring, for example,
+representation, access, available content choices and impact for audiences.
+
+Other market-oriented researchers have begun to use news analytics to
+ask more nuanced questions such as “how diverse is the news that people are consuming
+around the time of major breaking news events?” like the Paris attacks, the San Bernardino
+shootings or the presidential debates (Song 2016).","Boczkowski and Peer 2011;Song 2016;","","","","","cultural diversity"
+"17","001052@2017.nl","div","The result of this approach is that the concept of media
+pluralism involves diversity in media supply, distribution and use. It is
+intent on ensuring the presence of and access to a variety of information
+sources, opinions and expressions, and cultural products that represent
+the breadth and depth of society.
+
+The initial measures of pluralism were developed to support competition
+law analysis, first in the United States and then in Europe. These
+included concentration ratios and the Herfindahl Index (also called
+the Herfindahl–Hirschman Index). The focus of those measurements
+on competition enforcement later led to the introduction of a diversity
+measurement from ecology studies to provide evidence of other market
+issues41 and the Noam Index, a measurement specifically relevant
+to measuring cross-media ownership.","JOHN E. KWOKA JR., THE HERFINDAHL INDEX IN THEORY AND PRACTICE (1985).
+
+JOHN W. DIMMICK, MEDIA COMPETITION AND COEXISTENCE: THE THEORY OF
+NICHE (2003).
+
+Brian C. Hill, Measuring Media Market Diversity: Concentration, Importance,
+and Pluralism, 58 FED. COMM. L.J. 169 (2006); Eli Noam, How to Measure Media Concentration,
+FT.COM, Aug. 30, 2004, http://www.ft.com/cms/s/da3Obf5e-fa9d-1ld8-9a71-
+00000e251lc8.html.",NA,NA,NA,"Ownership diversity",NA
+"18","001060@2017.nl","div","Existing studies (Derczynskietal.,2015) further suggest that named entity diversity ,discrepancy between named entities in the trainingset and the testset (entity drift over time in particular) ,and diverse context,are the likely reasons behind the significantly lower NER performance on social media corpora",NA,"Named entity diversity",NA,NA,NA,"token/type diversity "
+"19","001229@2017.nl","div","Gauging the diversity and range of sources that appear in the news is central
+to a fuller understanding of the democratic role of the media. Of particular importance is the
+balance of sources representing different societal interests. Are the interests of businesses more
+commonly heard than those of employees? To what extent are citizen groups representing, for
+example, social or environmental causes used as sources in news stories? Does the balance
+between using different interest groups as sources depend on the policy area being reported on?
+And to what extent does media coverage of interest groups vary across news outlets?",NA,"diversity of sources that appear in the news",NA,NA,NA,NA
+"20","001259@2017.nl","div","Building upon the definition provided by Van Cuilenburg (1999), in our study
+we measure the heterogeneity of news content in terms of actor and viewpoint
+diversity.
+
+The diversity of actors refers to the range of category affiliations of
+actors who are quoted or paraphrased in the news
+
+The second dimension – diversity of viewpoints – has been considered by
+different authors as being core to the concept of content diversity. Griswold
+(1999) intuitively notices that, although various actors might feature in a discussion
+about a certain issue in the news, it is ultimately the diversity of viewpoints
+that guarantees the democratic benefit of content diversity, providing
+readers with a plurality of perspectives on a given topic. In line with this,
+Voakes et al. (1996, p. 585) propose a comprehensive definition of viewpoint
+diversity as the range of “ideas, perspectives, attributions, opinions, or frames
+within a news product”. In keeping with this definition, Van Gorp (2005) analyzes
+the use of frames in Belgian news about the asylum issue, identifying a
+dichotomy between an “intruder” and a “victim” frame. In a similar way, Benson
+(2009) measures frame diversity in immigration-related news in France and
+the US, pinpointing ten frame categories which characterize the mediated debate
+on immigration in those countries.","Van Cuilenburg (1999); Griswold (1999); Voakes et al. (1996, p. 585) ; Van Gorp (2005); Benson
+(2009) ","actor diversity","viewpoint diversity",NA,NA,NA
+"21","001389@2017.nl","div","Since we represent these patterns
+through semantic analysis, we suggest latent topic modeling to reveal the latent topic
+characteristics of messages, and propose a quantitative metric, message-diversity, to assess
+the latent topic diversity of messages and mining the repost patterns of the users.",NA,NA,NA,NA,NA,"message diversity (diverse topic properties)"
+"22","001402@2017.nl","div","Content diversity refers to the variety related to the source, topics and richness in media,
+in the content posted on enterprise microblogs. According to the media richness theory
+(Daft and Lengel, 1986; Lan and Sie, 2010), content richness refers to variety in language and
+media type. Here, the content diversity tactic not only involves variety in media type
+(such as photos, audio or video), but also variety in source and topics (such as company’s
+product information, re-tweets from celebrities or CEOs, and re-broadcasted news from
+other media). At the same time, different micro-topics are initiated frequently to capture
+attention and induce customer participation.","Daft and Lengel, 1986; Lan and Sie, 2010","variety of sources",NA,"variety of topics",NA,"variety of media types (text, audio, video)"
+"23","001425@2017.nl","div","Media scholars,
+critics, and policy-makers have used the concept of diversity as a normative
+goal for democratic media. A well-functioning media system has frequently
+been associated with the extent to which it facilitates the dissemination of a
+large array of ideas and viewpoints from a diverse range of sources, in order to
+foster the existence of an informed citizenry, an environment of inclusiveness
+and, ultimately, stable and effective self-governance (Napoli, 2001).
+
+Translating this so-called “diversity principle” into media system
+assessment has often taken the form of efforts to assess the range of sources
+and viewpoints represented in traditional mass media outlets (Napoli, 1999).
+
+The diversity of content on the Internet does not translate to
+the diversity of reception. As Napoli (2011, p. 246) notes, “with all of the
+information outlets currently available, focusing on source and content
+diversity is becoming less important than understanding the information that
+is actually consumed by media users.” One of the key challenges, then, is to
+reconcile the mass media era focus on the system – diversity – and the newly
+re-emerged focus on the rights of the individual","Napoli, 2001; Napoli, 1999; Napoli (2011)","","","","","diversity of content (no further specification)"
+"24","001505@2017.nl","div","At the same time, the focal matter of contention
+– the diversity of viewpoints – notoriously eludes definition and measurement (Benson,
+2009). Specifically, it remains unclear which observed variations in the news meaningfully
+contribute to viewpoint diversity (Napoli, 1999)
+
+Focusing on the diversity of news content (Napoli, 1999), we review available
+research and theorizing to discuss the concept’s normative relevance and operational
+specification.
+
+While most conceptualizations of democratic debates depend on some notion of viewpoint
+diversity, they emphasize different aspects, and differ in how much diversity is
+deemed adequate
+
+In our view, speaker-oriented approaches to viewpoint diversity offer little help for
+deciding whose viewpoints should be represented: they either externalize the problem
+by privileging positional elites, or implicitly refer to content-based criteria by inviting
+speakers expected to contribute different interpretations. By contrast, content-oriented
+views approximate the representation of all relevant aspects of a concern: they provide
+both measures and criteria for discriminating valuable from redundant contributions
+
+Most available measures of viewpoint diversity
+access the diversity of interpretations only indirectly (Voakes et al., 1996)
+
+Other studies assess viewpoint diversity using content analytic methodology (Hayes and Guardino, 2010; Humprecht and Büchel, 2013;
+Muschert, 2009). However, it is not always transparent how their indicators were chosen
+and can validly and relatively exhaustively capture the available interpretations (Voakes
+et al., 1996).
+
+However, diverse sources may
+echo the same few interpretations; likewise, few actors can present a wider or narrower
+diversity of viewpoints (Ferree et al., 2002; Holcomb et al., 2011; Voakes et al., 1996
+
+Among those approaches focusing on the diversity of news content, three related strategies
+emphasize the tone or political position represented in the news: in the simplest
+case, viewpoint diversity is considered high if official viewpoints are contrasted against
+some counterframes (Bennett, 1990; Hanitzsch and Mellado, 2011; Hayes and Guardino,
+2010)
+
+A slightly more differentiated variant assesses the diversity of tones
+attached to political issues (Hayes and Guardino, 2010).
+
+A third approach codes political slant (Ho and Quinn, 2008; Pritchard, 2002). At
+least in multiparty systems, this approach can distinguish also beyond two interpretations,
+albeit in rather coarse grain.
+
+In this article, we consider all frames as diverse that contribute to different interpretative
+repertoires
+
+A first approach is to simply determine
+the number of distinct patterns in which the respective logics are used for specific framing
+functions (number of viewpoints) – for example, by applying some clustering/topic
+modeling or, dimension reduction technique (Baden and Springer, 2014; Matthes and
+Kohring, 2008).
+
+Therefore, second,
+we can assess the uniqueness of ‘entries’ for the different ‘slots’ in constructed
+frames (viewpoint variability): a repertoire wherein each ‘slot’ is uniquely assigned has
+lower viewpoint diversity than one allowing variable entries to be combined without
+breaking coherence.
+
+Third, we can derive
+another criterion of viewpoint diversity from the assumptions required to render detected
+repertoires coherent (viewpoint distinctness): assumptions made by different repertoires
+can overlap (e.g. sharing moral evaluation standards)
+
+A debate wherein all advanced repertoires
+are at least passively compatible is, accordingly, less diverse than one that includes
+viewpoints that cannot simultaneously be accepted. If we apply such measures alongside
+the more conventional coding of actors represented in the coverage, not only can we
+assess whether and when additional speakers increase the diversity of viewpoints represented","Voakes et al., 1996 (Napoli, 1999); Benson, 2009;Hayes and Guardino, 2010; Humprecht and Büchel, 2013; Muschert, 2009; Ferree et al., 2002; Holcomb et al., 2011; Hayes and Guardino, 2010; Bennett, 1990; Hanitzsch and Mellado, 2011; Hayes and Guardino, 2010; Baden and Springer, 2014; Matthes and
+Kohring, 2008;","","","","",""
+"25","001684@2016.nl","div","Chaffee and Wilson (1977) used the term media diversity to describe the rich- ness of the media resources available in a region. According to Roessler (2008), media content diversity is the ‘‘variety or breadth of media content available to media consumers’’ (p. 467)
+
+In this study, media diversity and media content diversity were used interchangeably.
+
+Media diversity can be conceptualized on various levels, including indi- vidual media outlet in a community (Chaffee & Wilson, 1977), media type (Wang, Guo, & Shen, 2011), and agenda or issue frames (Peter & De Vreese, 2003)
+
+Considering the unique characteristics of the media system in China, media content diversity is conceptualized on the level of media type in this study.","Chaffee and Wilson (1977); Roessler (2008);Wang, Guo, & Shen, 2011;Peter & De Vreese, 2003",NA,"diversified opinions",NA,NA,NA
+"26","001729@2016.nl","div","A second requirement of news media in an electoral democracy is diversity (e.g. McQuail 1992; Mutz and Young 2011). This aspect of news quality is often associated with the ideal of the public sphere as a “marketplace of ideas” (e.g. Voakes et al. 1996, 582; Napoli 1999, 8; Mutz and Young 2011, 1018)
+
+News that is perfectly diverse provides citizens with information about all political parties—their viewpoints, their successes or failures of candidates—to an equal extent during an election campaign (“open diversity”, see van der Wurff and van Cuilenburg 2001
+
+For the diversity of party cover- age, which we measure here, this could mean a lower focus on government parties and more attention to the opposition, including new and populist parties, resulting in higher diversity.","McQuail 1992; Mutz and Young 2011;Voakes et al. 1996, 582; Napoli 1999, 8; Mutz and Young 2011;van der Wurff and van Cuilenburg 2001","diversity of party coverage",NA,NA,NA,NA
+"27","001764@2016.nl","div","Plurality here is viewed as diversity in news content and distinguished from pluralism in the sense that Karppinen (2013: 3–4) defined the concepts: diversity and plurality refer to the empirical fact of plurality, while pluralism is a value orientation that considers multiplicity and diversity in ideas and institutions a virtue.","Karppinen (2013)",NA,NA,NA,NA,NA
+"28","001818@2016.nl","div","Diversity can be defined as: Given a list of recommended news L to a given user u, L can be said to be diverse to u if it matches as many as possible of the given user’s different reading interests.",NA,NA,NA,NA,NA,NA
+"29","001948@2016.nl","div","The concept of news diversity is often equated with providing an alternative to the mainstream narrative (e.g., Alia and Bull 2004; Deuze 2006; Silverstone and Georgiou 2005)
+
+ In previous research, two primary approaches to measuring content diversity have been applied: examining diversity of content and diversity of ownership patterns (Entman and Wildman 1992; Iosifides 1999; Van Cuilenberg 2005).
+
+Connections drawn between these two sub-components of news diversity have been built on the assumption that source diversity will lead to content diversity in a truly competitive marketplace (Napoli 1999; Van Cuilenberg 2000). While this assumption has often proven problematic—structural diversity does not automatically ensure diversity of content—researchers have examined various sub-components of content diversity, including format or program-type, demographic and idea-viewpoints (Napoli 1999, 18–24). Measuring the diversity of idea-viewpoints within media content is often considered a form of reflective diversity, that is, a way to assess the “actual match between users’ preferences and the reflection of these preferences in media content” (Van Cuilenberg 2000, 53). Assessing the connections between reflective diversity in media content—an approach most strongly connected to a normative democratic theory of the media as being essential to maintaining a marketplace of ideas (Entman and Wildman 1992)—and ownership diversity is the central undertaking of the present research.","Alia and Bull 2004; Deuze 2006; Silverstone and Georgiou 2005; Entman and Wildman 1992; Iosifides 1999; Van Cuilenberg 2005;Napoli 1999;Van Cuilenberg 2000;Entman and Wildman 1992",NA,NA,NA,NA,"Duplication of content"
+"30","002013@2016.nl","div","This behavior reduces source diversity, or “the dispersion of the representations of affiliations and status positions of sources used to create a news product” (Voakes et al., 1996: 583–584). ","Voakes et al., 1996","Diversity of sources",NA,NA,NA,NA
+"31","002045@2016.nl","div","The right to information enables the media to have access to a wide range of information culminating in diversity of media content
+
+Intellectual and ideological diversity in the print media is therefore unsatisfactory. There is only one regional newspaper and no community newspapers. The specific informational needs of rural audiences are not adequately catered for in the newspapers. In addition, there is no single paper published in an indigenous language. Regional and cul- tural diversity is lacking in the print media sector.
+
+States have an obligation to take appropriate action to prevent undue dominance of concentration by privately controlled media groups in monopolistic situations that may be harmful to a diversity of sources and views.
+
+media functions describes diversity of media in relation to functions, including providing information, edu- cation and entertainment","","","","","","regional and cultural diversity"
+"32","002132@2016.nl","div","Motivated by such concerns, Mauro Porto (2007a) has argued for a “News Diversity” standard for journalism. Based on the interpretive citizen model, Porto defines “diversity” in the news media as a news environment containing a plurality of competing ”interpretive frames,” with the news media—as opposed to political parties and candidates—acting as the primary force in “shaping the menu of choices” (Porto 2007a: 311–12). “Interpretive frames” is the key element to the News Diversity stan- dard.","Mauro Porto (2007a) ",NA,"Frame diversity",NA,NA,NA
+"33","002268@2015.nl","div","The opposite, that is, access to a range of viewpoints, is quite uniformly called diversity, a term used in this article as well.
+
+Fre- quently, the research in this area focuses on diversity and biases along a single dimension, typically the political orientation (liberal versus conservative)",NA,NA,"diversity of opinion",NA,NA,NA
+"34","002400@2015.nl","div","Topical diversity: What are the various topics which are covered in the samples?",NA,NA,NA,"Topic diversity",NA,NA
+"35","002489@2015.nl","div","current debates concerning source, content, and exposure diversity as defined by Napoli (1999, 2011).
+
+Youth’s widespread adoption of sharing and creation techniques has several implications for notions of diversity. At the conceptual level, increased interactivity suggests that traditional categories such as producers, distributors, and recipients are blurring when applied to youth and news online. Viewed from this phenomenological angle, diversity models will have to take into account the interactive relationship between what has previously been labeled the audience, as part of exposure diversity, and nontraditional co-creators of news, as part of source diversity. As youth are no longer only consumers but also co-creators and sharers of news, traditional notions of source and content diversity now might take into account demographic or ethnic diversity outside the familiar dimensions of organizational and economic structures of professional media companies.
+
+More specifically, and using Napoli’s (1999) diversity framework","Napoli (1999, 2011)",NA,NA,NA,"source diversity","content diversity; exposure diversity"
+"36","002508@2015.nl","div","We, on the other hand, claim that the distinction between pluralism and diversity is extremely relevant for both a theoretical and empirical reflection on media and democracy, as they underlie different perceptions of plurality.
+
+On the one hand, ‘diversity’ has to be located on the ontic dimension of the social, as it regards mere physical or empirical differences, such as the range of identities and concerns (differences within society)
+
+‘affirmative diversity’ is represented by the metaphors of media as ‘mirrors of society’ and ‘marketplaces of ideas’ and draws on the liberal-aggre- gative school of democratic theory. Conceptually, it relates to ‘diversity’ as it expects media to truthfully reflect the existing social heterogeneity.
+
+Research starting from the affirmative diversity-approach is concerned about a bal- anced media representation of social diversity, for instance, in terms of actors, issues, and viewpoints.
+
+interpreted as ‘criti- cal diversity’ is illustrated by the metaphor of media as ‘cultural industries’
+
+However, instead of focusing solely on media content, their concern lays mainly with the commercial interests and mechanisms of media organizations and the routines of media practitioners, and how these determine the level of diversity within media coverage. Clearly, the research field is divided because of the unlimited range of structural charac- teristics. For example, regarding ownership, research can focus on ownership concentra- tion (e.g. Hanretty, 2014), the agenda of owners (e.g. Anand et al., 2007), ownership structures (e.g. Yanich, 2010), or ownership limits (e.g. Horwitz, 2005).","","","","","",""
+"37","002524@2015.nl","div","According to McQuail (2007), diversity is “the most potent concept in communication policy in modern times” (p. 41).
+
+Diversity, in turn, more frequently describes the variety of content available to or consumed by citizen
+
+From the first perspective, diversity is generated by a plurality of available media or content, and the latter conceptualizes media diversity as a result of user behavior. In this vein, McQuail (1992, p. 157) differentiates “content as sent” from “content as received.”
+
+The notion of exposure diversity assumes that pluralism is achieved when users actually enjoy a diverse media diet (Hagel & Brown, 2009; van Cuilenburg, 1998)
+
+Based on SCT, we argue that both supply diversity and exposure diversity are necessary but not sufficient conditions of media pluralism in the digital age.
+
+Yet, mere exposure is not synonymous with actual attention to and perception and experience of diversity (Goodman, 2004).
+
+We define diversity experience as the cognitive processing of diverse information.
+
+Thus, diversity exposure—the encountering of diverse content—results in diversity experience only if users perceive and digest this content according to their motivations, awareness, and capabilities.
+
+The social cognitive perspective on media diversity is particularly helpful in the analysis of media diversity in the digital age because it stresses the importance of personal influences as a complement to environmental/institutional (supply) and behavioral (exposure) aspects
+
+These challenges can be understood as three barriers that users must overcome to experience media diversity in an online environment:
+1. Users may not be motivated to seek out diversity.
+2. Users may not be aware of current limits to diversity.
+3. Users may not be able to ensure access to diversity.
+
+Based on SCT, we propose that the pluralism debate must employ a user-centric perspective and thereby extend beyond the assumption that supply diversity equals diversity exposure
+
+SCT shows that environmental factors (such as diversity supply) and behavioral factors (such as diversity exposure) interact in creating personal cognitions and affect (such as diversity experience)","McQuail (2007); (Hagel & Brown, 2009; van Cuilenburg, 1998);McQuail (1992, p. 157)","","","","","diversity experience"
+"38","002526@2015.nl","div","When discussing media diversity and pluralism,4 traditionally, reference is made to diversity of supply—that is, that a sufficiently diverse mix of media content is available from diverse sources. The public-service media play a critical role in that context. An aspect that has been less prominent in traditional diversity policies is the actual choices users make as another, different dimension of media diversity—known as “diversity of exposure” (Napoli, 1999) or “content as received” (McQuail, 1992).
+
+Exposure diversity examines the audience dimension of media diversity and asks to what extent the diversity of content and supply actually results in a (more) diverse program consumption.
+
+ Evidence from empirical studies demonstrates that, although it is a necessary precondition, “on its own diversity of supply cannot secure diversity of reception” (McQuail, 1992, p. 158) or “diversity of choice” (Van der Wurff, 2004) for the audience.
+
+Although far from being a comprehensive definition of exposure diversity, the Ofcom definition gives at least some guidance on what exposure diversity from a user perspective could mean: to be “able to access and consume a wide range of viewpoints across a variety of platforms and media owners” (Ofcom, 2012, p. 8). In other words, diversity should make people smarter and better informed
+
+Nudging the audience to consume a diversity of media content necessarily involves some element of value judgment and favorable representation of some types of content above others.","Napoli, 1999;McQuail, 1992;Van der Wurff, 2004","","","","",""
+"39","002533@2015.nl","div","In media policy, the idea of pluralism is often used interchangeably with notions such as “diversity,” “plurality of information” and “multiplicity of voices.” The general concept both describes and makes normative claims about various commercial models and forms of content that can or should be found in the media
+
+In practice, regulatory schemes feature combinations of at least three components—diversity of content, of source, and of distribution platform—but it is diversity of content that lies at the core of media pluralism.
+
+Diversity of source relates to the origin of the content.
+
+Diversity of distribution refers to the various delivery services that select and present material directly to the audience.
+
+It is evident that the underlying theme in policy discussion of media pluralism, across all its dimensions of diversity, is that information should simply be accessible. All that is required is that members of a democratic society should be exposed to the range of different viewpoints that exist and should have their viewpoints adequately represented (Council of Europe, 2003; Craufurd Smith, 1997; Hitchens, 2007; Valcke et al., 2010). As the Council of Europe (1999) has stated, “It should be stressed that pluralism is about diversity in the media that is made available to the public, which does not always coincide with what is actually consumed” (para. 3
+
+Another strand of thinking, which moves the discussion a little closer to a more active conception of media pluralism, is the literature on exposure diversity (Helberger, 2012; Napoli, 2011)
+
+Exposure diversity is therefore concerned with the audience and user dimensions of media pluralism and the extent to which diversity of supply actually leads to diverse consumption.
+
+First, a concern with active pluralism is one that will be mainly focused on diversity of content. Structural measures for diversity of sources and outlets would continue to be important in making content available, but the aim would be to encourage dialogue that would require mechanisms for bringing different sets of standpoints together in some way","Council of Europe, 2003; Craufurd Smith, 1997; Hitchens, 2007; Valcke et al., 2010; Helberger, 2012; Napoli, 2011","","diversity of viewpoints","","diversity of distribution","diversity of source (origin of the content)"
+"40","002547@2015.nl","div","Here, diversity is a principle of the dispersal of economic and political power, and the precondition for the reception of various opinions on the side of the audience.
+
+The so-called “diversity principle“ builds on the premise, popular also among policy- makers, that diverse ownership brings diverse content and that diverse content automati- cally brings about a lively, democratic and open public sphere. 
+
+If we look at the principle from the general perspective, the European research tradition mainly refers to “pluralism“ that stems from media diversity, resulting in “the presence of a number of different and independent voices, and of differing political opinions and representations of culture within the media“ (Doyle 2002, 11), whereas the Anglo-American researchers prefer the term “diver- sity“ and the “marketplace of ideas”
+
+However, the “marketplace of ideas” still does not specify various dimensions of diversity. In order to embrace the variations in space, sources and ideas, I will use Phillip M. Napoli’s conceptualisation of the deconstructed diver- sity, which consists of the “exposure diversity”, “source diversity“ (marking ownership and workforce diversity) and “content diversity”, that in turn consists also of the program- type format, demographic and idea/viewpoint diversity (Napoli 1999, 10).
+
+ These two explain the het- erogeneity of the content according to the criteria of whether or not the media reflect and report on a given relative distribution of opinions in society, or media enable all various opinions and positions to get the same amount of attention (Cuilenburg 1999, 189–190). 
+
+However, it potentially opens the (transna- tional) public sphere and heightens the conditions for “exposure diversity”. It designates “diversity of content as received”, which according to McQuail is an audience-oriented measure of plurality, “what the audience actually selects“ (1992, 157).
+
+Innovations and competition are fruitful for product diversification as long as only a handful of companies innovate and compete, which leads to the contradiction whereby more media outlets mean less diversity. 
+
+This also means that it is not the market structure per se which affects the diversity, but the central drive to valorise capital through the production of media content as exchange values","Doyle 2002; Napoli 1999; Cuilenburg 1999; McQuail (1992)","","","","diverse ownership","content diversity"
+"41","002562@2015.nl","div","However, these studies only speak to the volume of media consumption and not to its diversity. Diversity of media diet is a function of the level of exposure to like-minded content as well as of crosscutting exposure (i.e., exposure to different-minded outlets).",NA,NA,"selective and cross-cutting exposure",NA,NA,NA
+"42","002587@2015.nl","div","Most of the existing media policy toolkits have presumed a causal link between source diversity— that is, the availability of multiple and diverse content providers and diversity of content, leading to the common assumption that diversity of content naturally leads to exposure diversity—“[a]s audiences have a greater array of sources and content options to choose from, they presumably take advantage of this greater selection and expand their horizons” (Napoli, 2011, p. 248). In contrast to source and content diversity, however, exposure diversity has never been explicitly defined as a media policy objective in the United States (Napoli, 2011), Europe (Valcke, 2011), or internationally (Burri, 2010).
+
+ In terms of goal definition, it should be clear that we do not single out exposure diversity to the detriment of either source or content diversity, as there is broad agreement that these two endure as key media policy objectives, although, perhaps, with somewhat diminished demand for action because of conditions of the digital environment (Napoli, 2011, 2012; Valcke, 2011).","Napoli, 2011; Valcke, 2011; Burri, 2010; Napoli, 2011, 2012; Valcke, 2011","","","","","Content diversity"
+"43","002642@2015.nl","div","The liberal model emphasises internal plur- alism, that is the ‘diversity of media contents, services and sources reflecting and generating a broad variety of opinions, views, representations and values of social, ethical, political and cultural nature’ (Klimkiewicz, 2009: 47).
+
+An alternative model of democracy is the egalitarian-welfarist model. Such model considers information as a public good and freedom of information as a substantial democratic right. Therefore, diversity means organised pluralism, with a ‘segmented structure of media outlets and providers representing different social groups, cultural communities and political orientations’ (Klimkiewicz, 2009: 47).
+
+Hence, this model emphasises a conception of diversity as external pluralism, which is a ‘plurality of independent and autonomous media outlets and providers, mul- tiple centres of ownership, production, performance and distribution control’ (Klimkiewicz, 2009: 47).","Klimkiewicz, 2009","","diversity of views","","concentration of media ownership",""
+"44","002784@2015.nl","div","Diversification – The news agenda should be presented with as many viewpoints as possible. Viewpoints can be news categories (classes) or topics.
+
+News articles in front pages can be diversified using their category or topic tags.
+
+There are algorithms for selecting a diversified set of documents among a given collection, based on measures such as maximal marginal relevance [13]. The application of such algorithms is examined in Clarke et al. [14]. Selection based on diversity is also studied in the context of publish/subscribe systems [15]. In such systems, documents are obtained in a given period of time and then a subset of them is selected by applying greedy search, to find the most diverse item. Recommendation systems that consider diversification [16] find documents of a similar interest to the user profile/query, while presenting diverse results from various topics.
+In this study, we do not apply such approaches directly, since our algorithm handles different factors altogether, namely, importance, diversity and the length of the front page. For diversification, we utilize topic modelling that aims at finding latent groups/topics in a text collection. To the best of our knowledge, there is no study adapting topic model- ling for public front-page news selection.","Carbonell J and Goldstein J. The use of MMR, diversity-based reranking for reordering documents and producing summaries. In: Proceedings of the 21st annual ınternational ACM SIGIR conference on research and development in ınformation retrieval, Melbourne. New York: ACM, 1998, pp. 335–336.
+
+Clarke CLA, Kolla M, Cormack GV et al. Novelty and diversity in information retrieval evaluation. In: Proceedings of the 31st annual ınternational ACM SIGIR conference on research and development in ınformation retrieval, Singapore. New York: ACM, 2008, pp. 659–666.
+
+Drosou M and Pitoura E. Diversity over continuous data. IEEE Data(base) Engineering Bulletin – DEBU 2009; 32: 49–56.
+
+Ziegler C-N, McNee SM, Konstan JA and Lausen G. Improving recommendation lists through topic diversification. In:
+Proceedings of the 14th ınternational conference on World Wide Web, Chiba, Japan. New York: ACM, 2005, pp. 22–32.",NA,NA,"category or topic tags",NA,NA
+"45","002817@2014.nl","div"," According to all normative models of a “free press”, a certain level of diversity of sources is desirable – a broad range of viewpoints is necessary for the pursuit of truth and good governance (Siebert, Peterson, and Schramm 1956; McQuail 1983). From the point of view of representative democracy, it is crucial that the news provide multiple viewpoints in order to reflect the diversity of opinions in society (Tuchman 1978; Bagdikan 1997). ","Siebert, Peterson, and Schramm 1956; McQuail 1983;Tuchman 1978; Bagdikan 1997","sources (also talking about viewpoints but not measuring those)",NA,NA,NA,NA
+"46","002839@2014.nl","div","Differences between these approaches become vivid when one considers their varying engagement with core values of public interest, such as diversity. The first approach, dominant in the United States, Italy and increasingly the United Kingdom, defends the viewpoint that media diversity is best achieved when actors can freely enter the ‘marketplace of ideas’, unfettered by governmental constraints. The second approach relies on a highly differentiated and much expanded interpretation of diversity, an integral part of a more comprehensive media policy (Nordenstreng, 1974), as illustrated in Scandinavia, Rhineland Europe and Canada.
+
+For instance, arguments encouraging the diversity of ownership – such as in newspapers owned by a trust – pivoted around the desire to protect and promote editorial independence rather than to promote diversity of content.","Nordenstreng, 1974;","","","","",""
+"47","002861@2014.nl","div","We employ set diversity described in Zhang and Hurley (2008) as the
+diversity evaluation metric. The article set diversity is defined as
+the average dissimilarity of all pairs of news articles in the recommendation
+list.","Zhang and Hurley (2008)",NA,NA,NA,NA,"item diversity (cosine similarity)"
+"48","002942@2014.nl","div","Information diversity is also an important concept in communication
+studies. The freedom of media, a multiplicity of opinions and
+the good of society are inextricably connected (Napoli, 1999). Free
+Press theory, a theory of media diversity, states that we establish
+and preserve conditions that provide many alternative voices,
+regardless of intrinsic merit or truth, with the condition that they
+emerge from those whom society is supposed to benefit its individual
+members and constituent groups (van Cuilenburg & McQuail,
+2003). What is good for the members of the society can only be discovered
+by the free expression of alternative goals and solutions to
+problems, often disseminated through media (Napoli, 1999).
+While many scholars from different disciplines agree that information
+diversity is an important value that we should include in
+the design of institutions, policies and online services, this value
+is often reduced to a single definition, such as ‘‘source diversity’’,
+or ‘‘hearing the opinion of the other side’’.
+
+Following Napoli (1999), we may distinguish three different
+dimensions of information diversity. The first dimension is source
+diversity, which is diversity in terms of outlets (cables and channel
+owners) or program producers (content owners). Content diversity
+consists of diversity in format (program-type), demographic (in
+terms of racial, ethnic, and gender), and idea-viewpoint (of social,
+political and cultural perspectives). The third dimension, exposure
+diversity, deals with audience reach and whether users have actually
+consumed a diverse set of items.
+
+Karppinen (2009) argues that the aim of media diversity should
+not be the multiplication of genre, sources or markets, but giving
+voice to different members of the society.
+
+McQuail and van Cuilenburg (1983) propose to assess media
+diversity by introducing two normative frameworks. The norm of
+reflection checks whether ‘‘media content proportionally reflects
+differences in politics, religion, culture and social conditions in a
+more or less proportional way. The norm of openness checks
+whether media ‘‘provide perfectly equal access to their channels
+for all people and all ideas in society. If the population preferences
+were uniformly distributed over society, then satisfying the first
+condition (reflection) would also satisfy the second condition
+(equal access).","van Cuilenburg & McQuail,2003; Napoli, 1999; Karppinen (2009); McQuail and van Cuilenburg (1983) ","minority diversity",NA,NA,"source diversity","output diversity (diversity of what is shared)"
+"49","002959@2014.nl","div","compute the political diversity of news articles coming from the
+two sources based on the Shannon Index, which is defined as the (political) entropy of the
+news articles associated with the user",NA,NA,"political diversity",NA,NA,NA
+"50","003018@2014.nl","div","Thus far, the issue of media diversity has been understood as
+a consistent tug of war between two contrasting ideological camps – market
+approach versus cultural approach. The market model believes that free-market
+competition among a plethora of news media more efficiently serves media
+diversity, while the cultural model argues that governmental intervention is
+unavoidable to achieve the goal of media diversity (Entman and Wildman
+1992).
+
+The U.S. Federal Communications Commission (FCC) in its Biennial
+Regulatory Review (2003) identifies five categories of media diversity that are
+related to media ownership policy: diversity of viewpoint, programme, outlet,
+source and minority/female ownership. Viewpoint diversity relates to the availability
+of a diverse range of media content that reflects a variety of perspectives
+from social groups. The availability of an extensive range of views is essential to
+a healthy democracy and vibrant public debates. Rules limiting concentration of
+media ownership are generally deemed to be in the public interest because they
+prevent a few individual owners from exercising excessive impact on public opinion
+(McCann 2010)
+
+Program diversity refers to the availability of a variety of programming
+formats and contents. In an open media market with free entry, free competition
+can promote program diversity
+
+Outlet diversity is linked to the presence of multiple and independently
+owned broadcasters.
+
+Napoli’s (1999) typology suggests something different about media diversity
+than the FCC. According to him, media diversity is composed of three
+components: source diversity, content diversity and exposure diversity
+
+Hoffmann-Riem (1987) articulated four dimensions of media diversity:
+formats/issues, content, person/group and geographical diversity.
+
+Drawing on the literature,
+this study pays attention to two common dimensions of media diversity:
+outlet diversity and content diversity. Channel diversity can be enfolded
+in outlet diversity, and programme and viewpoint diversity can be included
+in content diversity.","Entman and Wildman, 1992; Federal Communications Commission (FCC) in its Biennial Regulatory Review (2003); Napoli’s (1999); Hoffmann-Riem (1987)",NA,"content diversity (viewpoints)",NA,"channel diversity",NA
+"51","003031@2014.nl","div","Firstly, all
+social groups and ideas should have the chance and expectation of being mentioned in
+journalistic coverage (diversity).",NA,"number of different actors","number of different viewpoints",NA,NA,NA
+"52","003095@2014.nl","div","To measure the diversity of viewpoints, in place of using sources cited as a proxy, our
+approach directly targets the interpretations articulated in the debate (Benson, 2009;
+Voakes et al., 1996). Thereby, we can distinguish different interpretations even if they
+originate from the same source.Our coding strategy reflects whether different frames
+construct similar or competing interpretations (Druckman, 2010; Herman, 1985). This
+enables us to assess diversity at the level of interpretative repertoires referred to by the
+constructed frames – distinct perspectives upon reality sustained by specific background
+assumptions about the nature of the world (Donati, 1992; Wetherell and Potter, 1988). To
+avoid a highly case-specific account, we introduce a deductive, theoretically grounded
+category system. Identifying distinct repertoires from recurrent patterns among these
+coded categories, we obtain a measure that allows a highly intersubjective, comparative
+assessment of viewpoint diversity (see also Matthes and Kohring, 2008).","Benson, 2009; Voakes et al., 1996; Druckman, 2010; Herman, 1985; Donati, 1992; Wetherell and Potter, 1988; Matthes and Kohring, 2008",NA,"viewpoint diversity (frames)",NA,NA,NA
+"53","003110@2014.nl","div","Guided by a concept of media content diversity articulated by Philip Napoli, this article explores the new digital broadcasting space, includ- ing the use of multicast streams and their content, and it considers whether the regulation and implementation of digital television best exploit its potential to increase programming diversity.
+
+Philip Napoli argues that diversity in broadcasting is a “central com- ponent” in the successful operation of a marketplace of ideas; without diversity, we cannot expect wide citizen engagement with a wide variety of ideas.16 Napoli outlines three strains of media diversity: diversity of media sources, diversity of exposure to media, and diversity of content. Content diversity provides a useful lens for studying the regulation and output of the digital television system.
+
+Content diversity refers to the programming choices and the variety of ideas available to viewers. ","Philip Napoli, Deconstructing the Diversity Principle, 49 J. COMM. 7 (1999).",NA,"diversity of ideas","content diversity (programming)",NA,NA
+"54","003179@2014.nl","div","We claim that, although content diversity, namely plain textual diversity measured based on a “bag of words” model, suf- fices for other diversification settings (e.g. keyword search), it is not enough when it comes to diversifying comments of news articles. Thus, apart from content, with our proposed criteria we also capture sentiment expressed through comments, important Named Entities and writing quality of the comments. That it, we define criteria to capture semantic meta- data of user comments, claiming that diversity of these semantic criteria induces diversity of topics/opinions/concepts described within comments.
+
+ In this section, we extend the notion of diversity on new dimensions (apart from content) that include sentiment, named entities and writing quality.",NA,"named entities",NA,NA,NA,"content diversity (term vectors), sentiment"
+"55","003354@2014.nl","div","Diversity refers to the variety in offer that is presented in the news as well as to the way this offer reflects political reality. The diversity in offer in the news can be measured both on the level of the media system as a whole (horizontal diversity) and on the individual media level (vertical diversity) (Hellman, 2001).
+
+Van der Wurff and Van Cuilenburg (2001) distinguished between open diversity and reflective diversity. According to the norm of open diversity, attention should be equally distributed over all parties that compete in the elections as well as all political issues that are raised. Reflective diversity requires that the diversity in the news should reflect the diversity of political actors or political issues outside the media environment. 
+
+n this study, we focus on both open and reflective diversity with respect to the political parties involved.","Hellman, 2001; Wurff and Van Cuilenburg (2001)","political parties",NA,"issues",NA,NA
+"56","003412@2014.nl","div","Given the ethical challenges for journalism and its social implications, this issue should be analyzed from the dual perspectives of inter- and intra- media diversity (McQuail, 1998). Van Cuilenburg (2002) highlights the importance of both dimensions to the diversity debate. Whereas intra-media diversity means ensuring audiences are confronted with diverse issues, ideas and opinions, inter-media diversity is of greater importance for the individual reader because, according to Van Cuilenburg (2002), it allows the reader to satisfy individual preferences by choosing between products with different editorial content. Thematic diversity within and among media is complementary and is addressed by this study.","McQuail, 1998; Van Cuilenburg (2002)",NA,NA,"topic diversity",NA,NA
+"57","003631@2012.nl","div","Without a working definition of “diversity,” but with many statutory requirements to promote and defend it, lawmakers and regula- tors have exhibited a repetitive pattern of assuming diversity is achiev- able
+
+his article takes a slightly different ap- proach and analyzes statutory and legal documents that assume that “diversity” actually has a workable definition and can be achieved as a virtue alone.
+
+One question that has not yet been explored herein is what type of diversity is optimal in mass communication. As discussed previously, there is great difficulty for policymakers or researchers who wish to ef- fectively operationalize the term or measure it effectively, notwithstand- ing the fact that some attempts have been made in other fields of law.147 Is diversity achieved when women, minorities or non-corporate entities own media outlets, or when any media owner delivers programming that features characters or commentators from various demographic groups? Is diversity achieved when as many cultural, social, religious or political viewpoints as possible appear in the mass media? Is diversity a matter of content quality or quantity? 
+
+ There may very well be a difference between di- versity of scale – as measured by the sheer quantity of media outlets, and diversity of scope – which must be inferred from patterns of qual- ity in content.166 These high-level questions of “what is diversity?” in the modern media landscape must be answered before jumping straight into regulatory strategies for achieving it
+
+There is an important difference between viewing diversity as an in- stitutional value, which can be virtuous, and viewing it as an achievable policy goal, which can be perilous.","","","","","",""
+"58","003708@2012.nl","div","Content diversity as choice options. In our study, system diversity is defined as the open diversity of program supply by all channels aiming to reach the general public (McQuail, 1992; Roessler, 2008). 
+
+First, as measures of system diversity are primarily based on relative distributions of categories, they fail to account for absolute increases or decreases. Second, because diversity measures are often composite measures based on relative distributions, they fail to show which specific constituent category (i. e., program type) is responsible for the change in diversity. Moreover, even changes in the relative distribution across program types over time may not be revealed in changes in the level of diversity2. Third, all diversity measures assume some level of aggregation unit. Choosing the aggregating unit (e. g., per hour, day, week, month, quarter or year) has implications for interpreting the level of diversity.","McQuail, 1992; Roessler, 2008",NA,NA,"Program type",NA,NA
+"59","003770@2012.nl","div","The net result of these speculations is a fivefold categorisation of groups: labour groups, business groups, groups of institutions and authorities, other sectional groups, and public interest groups. Diversity will be discussed in terms of the distribution of media attention across these group types.",NA,"diversity of groups",NA,NA,NA,NA
+"60","003835@2011.nl","div","Hardly any attention, in contrast, is devoted to the reception of diversity (McQuail, 1992; Napoli, 1997; Roessler, 2008). Do audience members actually view, read or hear the diversity supplied by media? 
+
+Yet, diversity that is only sent but not received cannot have the positive effects attributed to a diverse media supply. More research on the conditions that foster or inhibit the reception of diversity is therefore necessary (Napoli, 1997).
+
+Taking up this call, this article presents a first exploratory take on the important but hitherto neglected concept of diversity as received.
+
+Diversity is ‘one of the foundation principles in communications policy’ (Napoli, 1999: 7). It is defined as the heterogeneity of media content on one or more dimensions (McQuail and Van Cuilenburg, 1983).
+
+Frequently investigated dimensions include TV programme type and news topic. From a democratic perspective, the variety of political ideas expressed in media is of special interest. Such idea diversity (Napoli, 1999) is an impor- tant condition for well-informed decision-making and an expression of a healthy democ- racy (McQuail, 1992).
+
+A second distinction is between internal and external diversity (McQuail and Van Cuilenburg, 1983).","McQuail, 1992; Napoli, 1997; Roessler, 2008; Napoli, 1999; McQuail and Van Cuilenburg, 1983",NA,NA,NA,NA,"diversity as received"
+"61","003891@2011.nl","div","This study accounts also for communication diversity, seen here as encompassing two crucial components, demographically and ideologically heterogeneous political discussion networks as well as ideologically dissimilar news media exposure, analyzing whether they influence projection.
+
+For the purpose of this study, the authors term this communication diversity and propose that it encompasses demographically and ideologically heterogeneous discussion networks as well as exposure to ideologically dissimilar news media. Communication diversity implies reduced exposure to consonant ideas.",NA,NA,NA,NA,NA,"communication diversity (network and media exposure)"
+"62","004234@2010.nl","div","The guidelines stress that editorial fairness ‘‘requires that a producer be willing to consider all relevant infor- mation and points of view’’ and concludes that a commitment to diversity necessitates that journalistic content must fully reflect ‘‘the pluralism of our society, including, for example, appropriate representation of women and minorities’’ (PBS, 2005).
+
+ Democracy Now! has a greater diversity of news sources than the PBS NewsHour, as reflected by the use of females, people of color, foreign-based sources, and representatives of international institutions (such as the United Nations) as on-air news sources.","PBS, 2005","diversity of news sources",NA,NA,NA,NA
+"63","004238@2010.nl","div","On the other hand, the extent of content diversity circumscribes the spectrum of issues that are discussed in the mediated public sphere. 
+
+Finally, an important factor concerning the question of diversity and pluralism is their dual nature (Benhamou and Peltier, 2006). On the one hand, there is the diversity offered, that is the spectrum of choices offered to the public. On the other hand, there is the diver- sity consumed, meaning the actual choices that the public makes. Even if the existence of diversity offered is a sine qua non condition for diversity consumed,","Benhamou and Peltier, 2006",NA,NA,"topic",NA,"lexical diversity"
+"64","004282@2010.nl","div","The purpose of this article is to determine whether publication type (online citizen journalism and online newspaper) is related to the diversity of information provided to citizens. Specifically, this research created a measure of content diversity to make these comparisons. Measures used to define content diversity were (1) the diversity of topics, (2) the use of outbound hyperlinks and (3) the inclusion of multimedia and interactive elements.
+
+Diversity is typically measured by analyzing the diversity of sources present within articles, diversity of staff present within newsrooms or diversity of media information sources or ownership located within a geographic region. This research contributes to diversity literature by examining the diversity of content. Voakes et al. (1996: 585) defined content diversity as ‘a dispersion of the representation of ideas, perspectives, attributions, opinions or frames within a news product, and within the context of one particular issue.’ Content diversity is distinct from source diversity because the inclusion of a diversity of sources does not always equate to a diversity of ideas in articles.
+
+Authors from the Project for Excellence in Journalism (1999) argued that the more topics covered by the news organization, the better the news organization. They claimed a diversity of topics better reflects a community in its entirety. This research measured the diversity level of articles by utilizing Simpson’s D, which mea- sures the proportions across categories, and it is considered an optimal measure for diversity because of its interpretative capability (McDonald and Dimmick, 2003; Simpson, 1949)","Voakes et al. (1996); Project for Excellence in Journalism (1999); McDonald and Dimmick, 2003; Simpson, 1949",NA,NA,"diversity of topics",NA,"Use of hyperlinks, article attributes"
+"65","004284@2010.nl","div","In his seminal work on media performance, McQuail (1992) qualifies diversity as a fundamental value in Western society and argues that “the origins of the value of diversity are deeply rooted in the Western version of what counts as a modern society
+
+McQuail (1992) proposes a sequential model of the process of communi- cation which implies that diversity can be analyzed in terms of media structure, media content, and media audience. The present study focuses on media content. Content diversity refers to “the variety or breadth of media content available to media consumers, with higher consumer wel- fare provided by high diversity” (Roessler, 2007, p. 467)
+
+The question as to the optimum level of diversity is a normative one. The most widely used 􏰈 but also disputed 􏰈 measures in diversity re- search are based on equal representation of all categories under study as the ideal level of diversity; this is called open diversity (Roessler, 2007).
+
+An alternative to open diversity is reflective diversity, which consists of media expressing ‘different ideas or topics in the same proportion as media users prefer them’ (Van der Wurff and Van Cuilenburg, 2001, p. 214).
+
+Yet, this study focuses on open diversity, since open diversity is especially important in countries with an open multiparty system such as the Netherlands.
+
+Content diversity in terms of the breadth of news coverage can be mea- sured at different levels: at the level of the media system as a whole (horizontal diversity) and at the level of individual media outlets (vertical diversity) (Hellman, 2001)
+
+We will examine both forms of diversity as breadth because a low or a high level of vertical diversity is not necessarily accompanied by the same level of horizontal diversity. ","McQuail (1992);Roessler, 2007; Van der Wurff and Van Cuilenburg, 2001; Hellman, 2001","Political parties",NA,"issues",NA,NA
+"66","004290@2010.nl","div","This study represents such an attempt. It uses framing analysis to address the connection between media content diversity and audience cognitions on public issues. Media content diversity for social issues pertains to coverage of a full range of views (Hoffmann-Riem, 1987, 1992). As framing involves the construction of views in both news production and consumption processes, the concept appears to be a proper analytical tool to examine the relationship between media content diversity and audience issue cognitions.
+
+Research on frame diversity is limited, but a few studies have examined agenda diversity. These studies generally viewed agenda diversity as a diversity of social issues and have used nominal diversity (Allen & Izcaray, 1988; Wanta, King, & McCombs, 1995; Peter & de Vreese, 2003) and thematic diversity (Peter & de Vreese, 2003) to measure agenda diversity. Nominal diversity refers to the number of issues a social unit viewed as important, and thematic diversity refers to the semantic variety of issues a social unit viewed as important.","Hoffmann-Riem, 1987; Allen & Izcaray, 1988; Wanta, King, & McCombs, 1995; Peter & de Vreese, 2003; Peter & de Vreese, 2003",NA,"frames",NA,NA,NA
+"67","004492@2010.nl","div","diversity in the media (different political opinions and representations of culture within the media).
+
+Although pluralism and diversity are used interchangeably in this chapter it is worth going through some definitions of the concepts to establish why the lack of these ideals in a highly concentrated media market might be an issue of public concern. A broad definition of media diversity has been provided by Hoffmann-Riem (1987) who referring to the broadcasting scene a couple of decades ago distinguished four dimensions of diversity. For him there must be diversity of formats and issues, meaning that all the various fields and topics - entertainment, information, education and culture - have to be taken into account. Secondly, this should be complemented by a diversity or plurality of contents. This means that programmes should provide comprehensive and factual coverage of the different opinions expressed in a society. Thirdly, person and group diversity must exist. Programmes have to cater for the interests of all parts of the community. The main point here is access, but also representation. Finally, Hoffmann-Riem pointed out that broadcasters should include local, regional, national and supranational content. To sum up, a programme has to ensure that issue, content, person and geographical diversity is provided.
+
+A similar identification of the dimensions of diversity has been provided by McQuail (1992: 144-5) who argued that the media can contribute to diversity, firstly by reflecting differences in society, secondly by giving access to different points of view, and thirdly by offering a wide range of choice.
+
+one also needs to distinguish between external and internal diversity. The former, according to McQuail (1992: 145-7) refers to media structure because it is related to the idea of access. It relates to the degree of variation between separate media sources in a given sector, according to dimensions such as politics, religion, social class, and so on","Hoffmann-Riem (1987); McQuail (1992)","","","","",""
+"68","004774@2009.nl","div","In this new context not only the coexistence of private and public broadcasters – building a diversity of providers – has to be a goal for media regulation, but also upholding a diversity of programmes that is vital for maintain- ing cultural identity, especially for small states with a giant neighbour","","","","diversity of programmes","diversity of providers",""
+"69","004798@2009.nl","div","A fundamental policy dilemma arises here: what to support – diversity among suppliers (for example, by liberalizing market entrance conditions for new actors) or diversity of content (for example, by state subsidy of the media)?
+
+Discussion on media pluralism and diversity essentially focuses on two issues: structural diversity of the media and diversity of content.","","","","","structural diversity","content diversity"
+"70","004803@2009.nl","div","The most recent are: the Diversity Index in the US (2003), the public interest or plurality test in the UK (2003), the integrated communications market (SIC) in Italy (2004), and a new approach to weighting the influence of various media by the German KEK in the context of its merger decision on ProSiebenSAT.1 Media AG and Axel Springer Media AG (2006).
+
+The Diversity Index (US) and the integrated communications market (Italy)
+A new approach to assessing viewpoint concentration in local media markets was adopted by the FCC during its third biennial ownership review. This Diversity Index (DI) was introduced to provide ‘its media ownership frame- work with an empirical footing’ (FCC, 2003: 46316). The Commission was responding to claims increasingly voiced both by the courts (e.g. Fox v. FCC, 2002: 1048) and scholars (e.g. Napoli, 1999) that media ownership regula- tions targeted at non-economic goals such as media diversity need to be jus- tified by empirical proof, and that traditional justifications no longer suffice.
+
+There is, however, neither a consensus on what constitutes plurality (e.g.is it a plurality of owners, a plurality of channels and titles and variations within them, or a diversity in content/ideas), nor on how this goal can adequately be achieved, let alone empirically measured.
+
+The German Commission on Concentration in the Media (KEK), the regulatory body responsible for ensuring a diversity of opinion in national broadcasting, entered new ground in the course of its review of the proposed merger between ProSiebenSAT.1 Media AG and Axel Springer Media AG by developing a new weighting approach that takes account of possible influences of various media on the diversity of opinion (KEK, 2006)","Napoli, 1999; FCC, 2003","","","","",""
+"71","004846@2008.nl","div","For mass communication research, the emergence of new mass media raises a number of research questions. Among them, the question concerning their contribution to diversity is of predominant importance at the macro level of research. ‘Diversity has been the most potent concept in communication policy in modern times and in some degree remains so’ (McQuail, 2007: 41). Among the many normative concepts in mass communication research, diversity is probably the most prominent one. When Denis McQuail revisited this concept in 2007 he underlined the ambiguities of the concept as well as its continued importance. Diversity can be an end in itself but it can also be a necessary requirement to attain what society requires. 
+
+When new media emerge, the level of diversity is expected to increase. At the levels of ownership, content, receiver/audience and channel, additional mass media might increase diversity.
+
+All these public service features relate closely to the value of diversity. On the content level, quality and diversity are the key features together with requirements to respect minorities and foster national culture and identity (Syvertsen, 2003: 157), as well as the provision of news to enable citizens to participate in the democratic process in an informed way (Steemers, 2001: 126)","McQuail, 2007; Syvertsen, 2003; Steemers, 2001",NA,NA,NA,"ownership diversity","content diversity (kind of article, multimedia included)"
+"72","004981@2008.nl","div","One way to understand the relationship between media diversity and democratic society is through Napoli’s (1997) media diversity model. Diversity has long been an important measure of the quality of any media system in democratic societies (Einstein, 2004; McQuail, 1992; Napoli, 1997). According to Napoli, the concept of media diversity has three major components: (1) source diversity, (2) content diversity, and (3) exposure diversity (see Table 1). Source diversity is defined in terms of media ownership as well as by the diversity of its workforce. Content diversity refers to the multiplicity of viewpoints, program types and the demographic profiles of those represented in media content. Exposure diversity measures how audiences make use of the available options. While each of these three prime components is an indispensable ‘link in the diversity chain’ (Napoli, 1997, p. 18), exposure diversity is considered the most important element in the pursuit of a marketplace of ideas.
+
+In his media diversity model, Napoli (1999) further categorized diversity of exposure into two types: horizontal diversity and vertical diversity. ","Einstein, 2004; McQuail, 1992; Napoli, 1997",NA,NA,NA,"channel repertoires/diversity",NA
+"73","005143@2007.nl","div","This discussion has largely centered on differing normative perspectives between traditional news, which creates meaning among a field of unrelated stories bound together into something called ‘the news’, and search engines, which promote diversity through easy access to different viewpoints on any topic. ","","","viewpoints","","",""
+"74","005155@2007.nl","div","For example, the analysis and proposals presented here refer mostly to media systems based on the principle of internal diversity and therefore are not applicable in the same manner to systems based on external diversity (see McQuail, 1992, pp. 145􏰖 147). Internal diversity refers to the condition where a wide range of points of view is offered by the same channel, usually with a view to reaching a large and heterogeneous audience. 
+
+The News Diversity standard takes frame diversity as a central criterion for evaluating the role of news media in shaping democratic politics. The standard needs to be complemented by further theorization and empirical studies. Meanwhile, I suggest that the model presents a typology (below) of the form of news segments as a concrete operationalization of the concept of frame diversity. 
+
+I modify Schlesinger, Murdock and Elliot’s (1983) typology and propose classifying the form of news stories according to the following categories:
+1. Restricted: when only one interpretive frame of the political event or issue is presented by the news story
+2. Plural-closed: when more than one interpretive frame of the political event or issue is presented by the news story, but the frames are arranged in a hierarchy so that one is preferred over the other(s) and presented as more valid/true
+3. Plural-open: when more than one interpretive frame of the political event or issue is presented by the news story, but treated within a more indeterminate relation where no interpretation is preferred
+4. Episodic: when no interpretative frames are presented and the news story has a descriptive tone.","McQuail, 1992; Schlesinger, Murdock and Elliot’s (1983)","","diversity of frames","","",""
+"75","005245@2007.nl","div","Press pluralism (or “diversity”) has been studied in many different ways. Researchers have analyzed the level of differentiation in society as a whole (Bourdieu, 1998; Shoemaker & Reese, 1996; see Durkheim, 1964), the diversity of media ownership (Bagdikian, 2000; Baker, 2002; Einstein, 2004), the range of television channels, radio stations, newspapers, maga- zines and online publications (Hellman, 2001; Ishikawa, 1996), the use of diverse sources by media workers, gender and race differences among reporters (Zoch & Turk, 1998), the dif- ferences in journalistic norms and practices, and the diversity of audiences (McQuail, 1992). In this article, as in many before it, the analysis is focused on the level of pluralism in press content.","Bourdieu, 1998; Shoemaker & Reese, 1996; see Durkheim, 1964; Bagdikian, 2000; Baker, 2002; Einstein, 2004; Hellman, 2001; Ishikawa, 1996;Zoch & Turk, 1998; McQuail, 1992",NA,"negative or positive connotation regarding a topic",NA,NA,NA
+"76","005337@2006.nl","div","The FCC’s Diversity Index had as its basis the well-known Herfindahl–Hirschman Index (HHI), which measures market concentration via summing the squared market shares of each firm in a mar- ket. The Diversity Index extended and modified the HHI in a number of ways. The FCC described the methodology as follows:
+In terms of calculating the Index, within each medium we combine commonly- owned outlets and calculate each owner’s share of the total availability of that me- dium. We then multiply that share by the share of the medium in question in the total media universe (television plus newspaper plus radio plus Internet). Once these shares in the overall “diversity market” have been calculated, we add together the shares of properties that are commonly-owned (e.g., a newspaper and a television sta- tion), square the resultant shares, and sum them to get the base Diversity Index for the market in question. (FCC, 2003, p. 13790)
+
+
+Figure 1 provides a visual map of the discussion that is to follow. In this figure, the central concept of the diversity importance of different information sources is sur- rounded by the various potentially relevant conceptual elements, which are, in turn, accompanied by listings of the areas of communications research that are of potential use in clarifying and applying these conceptual elements.(page 677)
+
+Another dimension of citizens’ media usage that appears to have an increased bear- ing on media ownership policy is basic audience exposure. In the commission’s ef- forts to assess the diversity importance of different information sources, and in the subsequent court repudiation of these efforts, the issue of potential or actual audience exposure to different information sources has played a central role.","FCC, 2003","","viewpoint diversity","","media ownership",""
+"77","005678@2003.nl","div","In other words, the media might also shape what Allen and Izcaray () call nominal diversity . . . the number of issues a particular social unit considered salient’ (p. ).1 If the media influence this more quantitative aspect of public agenda diversity, they might also have an impact on a more qualitative aspect of public agenda diversity, which can be referred to as thematic public agenda diversity. Thematic agenda diversity concerns the semantic variety of issues on the agenda of a particular social unit.2 Even if different social units have the same nominal diversity (i.e. name the same number of issues), their thematic diversity may differ. For example, if, at the individual level, two respondents both mention two issues, but respondent A mentions inflation and prices, whereas respondent B mentions inflation and environment, then respondent B may be considered to show a broader thematic diversity.
+
+Third, although researchers have employed media exposure measures (Allen & Izcaray,1988; Chaffee & Wilson, 1977; Reinemann & Brosius, 1998; Wanta et al., 1995), no study to date has linked the diversity of the public agenda to the diversity of the media content individuals are actually exposed to.
+
+However, no study to date has linked the diversity of the public agenda to the diversity of the media agenda, i.e., the diversity of the specific media content to which the public is actually exposed. We investigate the relationship between diversity on the news agenda and diversity on the public agenda by including a diversity measure of different television news programs.","Allen and Izcaray (1988)",NA,NA,"agenda diversity",NA,NA
+"78","005736@2002.nl","div","Mediascholars,journalists,and the communities they serve continue to debate the lack of source diversity, the level of expected diversity (whichvaries),and the path to achieving greater diversity since research on this subject began in the early 1970s.
+
+Source representation is a type of diversity most frequently stud- ied by researcherswho address this issue in ways that range from media channels and news structures to the diversity and affiliations of people represented in the news
+
+Voakes,Kapfer,Kurpius, and Chern wrote: ”Sourcediversity is a dispersion of the representation of affiliations and status position of sources to create a news product. The more even the dispersion of the representation among source affiliations, status, and proximity in a given story or medium, the greater the diversity .T~his study expands this definition to include the dispersion of representation of race and gender.","Voakes,Kapfer,Kurpius, and Chern (Voakes et al., ""Diversity in the News: A Conceptual and Method- ological Framework."")","source diversity",NA,NA,NA,NA
+"79","005803@2000.nl","div","For a concept of such sweeping importance, the Commission’s core definition of diversity has remained conspicuously elusive. As used by the Commission over time, the concept of diversity can and does mean a great many things: it can refer to the race or gender of a broadcast station’s owners;21 it can refer to the ideology of the owners;22 it can refer to the net number of separately owned media outlets, whether locally or nationally;23 it can refer to the types of programs that a particular television or radio station owner broadcasts; or it can refer to the sources of broadcast pro- gramming.24 
+
+As noted above, the Commission has described its efforts to promote diversity as ongoing attempts to achieve viewpoint, outlet, and source di- versity within the broadcast media.","FCC","diversity of race and gender","viewpoint diversity","","ownership diversity/outlet diversity/source diversity",""
+"80","005880@1999.nl","div","Diversity of information, or media diversity, as the concept is often referred
+to in most democratic countries, is considered to be of crucial value and a
+central objective of communications and media policy. Media diversity refers
+to media content; media diversity is heterogeneity of media content in
+terms of one or more speciﬁed characteristics. Variety in news media supply,
+for instance, may be measured in terms of distribution of attention across
+news categories, political stances, news genres, cultural foci, and so on. This
+deﬁnition of diversity is a ‘product deﬁnition’ and as such is not without
+policy implication, because it focuses on media content rather than on media market structure and media organizational conduct. Thus, this
+deﬁnition avoids a too easy equalization of the number of media outlets to
+media performance, e.g. we do not suppose there is a simple positive
+connection between competition and diversity. It remains to be seen
+whether more media competition really brings about more media variety. 
+
+Two faces of diversity: reflection and openness
+
+Often, media practitioners and politicians think that more media diversity is
+‘better’. This. however, is not the case: media diversity always has to be
+externally gauged in some way or manner. Gauging, or benchmarking,
+should be based on the existing social diversity that media are reporting on.
+
+Put differently, media diversity should always be compared with relevant
+variations in society and social reality. Two different normative frameworks
+present themselves (McQuail and Van Cuilenburg, 1983).4 Do the media
+relate to society in such a way as to reﬂect, pro rata, the distribution of
+preference, opinion, allegiance or other characteristic as it appears in the
+population? Or is the content distribution within the media such that
+perfectly equal attention is given to all identiﬁable preferences, streams, or
+groups, or positions in society? If the ﬁrst scenario is the case, the media
+adhere to reﬂection as the norm for media diversity: media content
+proportionally reﬂects differences in politics, religion, culture and social
+conditions in society in a more or less proportional way. If the second
+scenario holds, then media performance satisﬁes the norm of openness, that
+is, media uniformly, in arithmetically absolute terms, provide perfectly equal
+access to their channels for all people and all ideas in society.
+
+Reﬂection in media diversity is depicted in Figure 2 with a purely
+hypothetical example. The population curve in Figure 2 represents the
+distribution of preferences in the population, e.g. political opinions, religious
+beliefs or interests in particular kinds of news, or any other relevant
+population characteristic. We assume that population preferences will
+correspond with a certain kind of demand for media content. The other
+curve, the media curve, represents the media supply, complementing
+population preferences and characteristics. Ideally, in the case of maximum
+proportional media reflection of population preferences and characteristics,
+both curves fully coincide. The example in Figure 2 shows, however, that media preferences only partly overlap with population preferences, indicating
+a media deﬁciency in reﬂection.
+
+
+Figure 3 portrays media supply compared to media supply under the
+condition of full openness, i.e. equal access for all preferences in the
+population, be they majority or minority preferences or characteristics.
+Graphically, equal access, or full openness, may be represented by a uniform
+distribution, as in Figure 3: the straight horizontal line indicates that no
+category of preference or characteristic in the population gets more media
+coverage, attention, and supply than any other preference or characteristic
+category. Consequently, open media diversity is, at the same time,
+mathematically the maximum diversity media systems can realize.
+
+There is a dialectic relationship between reﬂective (proportional) and open
+(uniform) diversity. As both ﬁgures taken together make clear, only if
+population characteristics, preferences and conditions are fully horizontal,
+that is, uniformly distributed over society, does reﬂection coincide with
+openness. This, however, is seldom the case. More often than not,
+population characteristics and preferences tend toward the middle; toward
+normal distributions, toward mainstreams, so to speak. Media ratings and
+research from commercial media research generally show large homogeneity
+of actual media preferences and media use in the population. This fact
+implies that media reﬂecting society inevitably ill perform regarding
+openness to a great variety of different social positions and conditions,
+whereas perfectly equal media access harms majority positions in favor of
+minority beliefs, attitudes and conditions. There is no easy way out from
+this dilemma: proportional reﬂection and uniform openness can hardly ever
+both be fully realized at the same time.
+
+So, in studying diversity and new media one should raise the question
+whether, and to what extent, the Internet and other new carriers and
+communication outlets do indeed increase and enhance social, political and
+cultural expression (reﬂective diversity) and discussion and debate (open
+diversity) in society.
+
+Many theorists suggest that diversity best ﬂourishes in a free marketplace 9‘
+ideas: if people can freely enter this marketplace to exchange information
+and opinions, without any constraint by government or any other party,
+then we may expect cultural variety and diversity to happen.
+
+Diversity will only result from a marketplace of ideas if the number of
+different providers of information is large and competition between them is
+full and fair, so that power dominance does not exist. We also have to
+assume that ‘buyers’ of information are fully and rationally informed about
+the marketplace. That is, the market is transparent, so that citizens may get a
+clear concept of what information in media markets is available to them. 
+
+The diversity paradox stems from the dialectics between reﬂective and
+open diversity (see Section 3). With informatization of society and the
+increase in media outlets, media diversity has indeed reached an unimaginable
+level: it is very difﬁcult to specify types of contents which are nowhere
+available in media markets. However, media markets are far better at
+producing proportional reﬂection of majority civic interests and consumer
+preferences (Figure 2), than in equal, uniform openness to political and
+cultural innovations, stemming from minorities and new groups in society
+(Figure 3).
+
+Competition may indeed favor media quality,
+but it is reﬂective diversity that gains most by competition.
+
+Some hypotheses on competition and diversity
+The relationships between different forms of media competition and media
+diversity may be expressed in the following hypotheses:
+
+Hypothesis 1 Media competition and content hypothesis (derived from
+Hotelling).
+
+The more media compete for marketshare, the more they compete on price
+(Cr) (ﬁerce competition), the less they compete on content (Ci) (moderate
+competition).
+
+The more media diversity is reﬂective diversity (DI), the less media diversity is
+open, equal access diversity (DU)
+
+The more media compete for marketshare, the more they compete on price
+(C1,), the less they compete on content (C), the more media diversity is
+reﬂective diversity (Dr), and the less media diversity is open diversity (Do).
+
+So, if democracy presupposes diversity, and diversity itself is being promoted
+by competition, we really should adhere to a free marketplace of ideas. We
+have seen, however, that the connection between these variables is far from
+simple. ","McQuail and Van Cuilenburg, 1983","","","","","Open and reflective diversity"
+"81","005951@2013.nl","div","all of the foreign media diversity measurement tools and metrics which were investigated as part of this project operated according to a similar normative understanding, namely that a diversity of content in the media is important to society and to democracy, and should reflect the widest range of cultural and political ideas possible, because the media are integral to the individual’s formulation of ideas and opinions
+
+In many southern countries, of course, large sections of the media audience may experience very limited access to some, if not all, media platforms. Significantly, then, an inversion of the view from which to assess media diversity is required in developing countries. 
+
+ It is one matter to measure the diversity of content within a particular print media publication, but the importance of that analysis must be jointly determined by the accessibility (in addition to the availability) of the publication to a specific audience.
+
+Therefore, on assessing media diversity of content in southern countries such as South Africa, the audience must necessarily first be segmented into the varying media bundle categories (once these have been identified), and a media type should preferably be included within an audience segment’s media bundle only if its access and accessibility are rated highly for that particular audience segment. Only then can a content analysis of the level of diversity within the media be initiated, but a separate content analysis should be done for each media bundle category.
+
+Van Cuilenburg (2007, 38–39) makes a case for assessing the diversity of a media market in its entirety, as opposed to analysing the diversity of separate media markets in isolation from one another.
+
+Therefore, if the primary motivator for measuring media diversity is a concern for the diversity of content and available ideas according to which audiences form opinions, it may be better to view the media as a whole, rather than as separate parts. 
+
+ Indeed, the ideals for media diversity held by policy-makers may not necessarily reflect any symmetry with the preferences of the audience(s). Therefore, as part of the project of establishing a media diversity measurement tool, an audience study becomes essential.
+
+
+‘Pluralism’ and ‘diversity’ are often used interchangeably, especially in European policy debates. In this article, the terms are understood to be distinctly different. Pluralism refers to the number of media outlets, while diversity refers to the type of voices available in these media outlets, and whether the voices of particularly vulnerable social groups (e.g., women, children, the elderly) are represented in media content. While the extent of the former can be assessed through quantitative indicators, it is difficult to assess the latter without a more qualitative approach.
+","Van Cuilenburg (2007)","diversity of voices","","","",""
+"82","005969@2013.nl","div","In multicultural societies, diversity is considered a prime objective of regulation established for broadcast media. Three types of diversity 􏰁 source diversity, content diversity, and exposure diversity 􏰁 are considered vitally important to protect the rights of citizens and the functioning of democratic systems of governance (McQuail, 2005; Napoli, 2003).
+
+Without ensuring diversity of views in media content and programming, it is impossible to guarantee ‘an increase in the diversity of content consumed by audiences’ (Napoli, 2003, p. 129).
+
+Source diversity has attracted the attention of policymakers who have attempted various strategies to practically implement the elusive principles enshrined in the concept. Napoli (2003) argued that regulators have operationalized source diversity by warranting diversity of media ownership, by encouraging media outlets to ensure diversity of ownership of content and programming, and by introducing rules paving the way for the recruitment of a diverse workforce","McQuail, 2005; Napoli, 2003","","","","source diversity","content diversity"
+"83","005998@2013.nl","div","Teachman (1980, 341) defines diversity as ‘‘the distribution of population elements along a continuum of homogeneity to heterogeneity with respect to one or more variables.’’ The concept of diversity has two dimensions (McDonald and Dimmick 2003). As Junge (1994) noted, the first dimension of diversity is categorical and is typically a set of discrete classifications within a given distribution. The second dimension is the allocation of the elements to the categories. Conceptually, then, diversity becomes an interaction of the number of categories with the assignment of elements to those categories. Mathematically, interest is in the flatness of the distribution (Pielou 1975).
+
+When considering the diversity of the media agenda, there are at least three different uses of diversity: source diversity, content diversity, and audience exposure diversity (Napoli 1999). Source diversity can mean both the number of media owners and the number of media channels. Content diversity refers to the category designations given to different program formats, issue categories, people’s demographic features, and viewpoints represented within the media. Audience exposure diversity refers to the content diversity that audiences are really exposed to in their media use. Media agenda diversity is an important measure over time because it can influence public opinion diversity and fundamental values of democracy.
+
+In this study, content diversity is measured with subject content (issue categories) that the newspaper reports on, which is also called media agenda diversity. ","Teachman (1980);McDonald and Dimmick 2003;Junge (1994); Pielou 1975; Napoli 1999",NA,NA,"issue diversity",NA,NA
+"84","006040@2013.nl","div","Diversity in the media may be understood to mean many things, but in the context of this article, it refers to three aspects in the broadcast media: diversity of outlets, diversity of sources, and diversity of content. Diversity of outlets requires that space be allocated to users on different communication platforms to ensure that the general public is able to receive a diverse range of broadcasting services.36 In order to promote diversity of outlets, it is recommended that there should be at least three categories of broadcasting services: commercial; commu- nity, and public service.37 Although the programming format of these broadcast- ers is not mutually exclusive, their operating rationale is different. Thus, where all the three types of broadcasters are in operation, this will maximize the promo- tion of dissemination of a wide range of information and ideas catering for the informational needs of a diverse audience.
+
+The second facet of diversity, which relates to sources, demands that adequate measures be put in place to prevent monopolies in the media.47 The protection of freedom of expression under international law obligates states to prevent undue media dominance or concentration by privately controlled media groups in monopolistic situations that may be harmful to a diversity of sources and views.4
+
+The guarantee of freedom of expression imposes an obligation on the state to take steps to promote diversity of media content.61 Programming by broadcast- ers should provide diverse views, opinions, and perceptions to the public they serve. There are various measures that a state may put in place to promote diver- sity of content. These measures include, among others, strong support for both public service and community broadcasters, imposing content obligations on broadcasters, and requirements that programming of a broadcaster must con- tain independent productions.","T Mendel & E Salomon, Freedom of Expression and Broadcasting Regulation (Rio de Janeiro: UNESCO, 2011) at p.16.","diversity of sources","diversity of content","","diversity of outlets",""
+"85","006166@2013.nl","div","For example, Freedman (2008: 72) makes a distinction between pluralism and diversity, according to which ‘pluralism refers to the wider political context in which media operate’, whereas ‘diversity is related to the media’s ability to acknowledge and express existing social differences’. Doyle’s definition does not diverge significantly from the original interpretation of the internal/external dichotomy; in Doyle’s view, internal pluralism pertains to the diversity of the output (referring to the media content), whereas external pluralism refers to the diversification of media ownership (Doyle, 2002)."," Freedman (2008); (Doyle, 2002)",NA,NA,NA,NA,NA
+"86","006367@2013.nl","div","The empirical implication is that as the number of electoral parties in a state increases, we should observe relatively more policy-oriented and less personality/human interest–oriented news coverage, as well as less support for government policy and a wider range of frames pertaining to a given policy appearing in the news.3 More diversity in frames by definition implies more alternatives to the government’s preferred frame",NA,NA,NA,"diversity of frames",NA,NA
+"87","006391@2013.nl","div"," Also, we encoded the diversity of views, i.e. whether alternative scenarios were discussed or not.",NA,NA,"diversity of views",NA,NA,NA
+"88","006563@2016.nl","div","Following Dahl’s classic definition of democracy (DAHL, 1971), I address two critical roles of the media: pluralism and access to diverse and independent sources of information. More than the simple expression of social diversity, pluralism empowers citizens to participate effectively in politics. Pluralism is directly linked with diversity of opinion and other dimensions of democracy, since freedom of expression gives it a concrete, demonstrable existence.","DAHL, 1971",NA,NA,NA,NA,NA
+"89","007415@2011.nl","div","This was one of the greatest conceptual difficulties when undertaking the comparative study of American and European communication policies. In the United States, the term ‘diversity’ is used instead of ‘pluralism’, which undoubtedly introduces certain nuances when considering the country’s pluralism protection legislation and mechanisms. In our opinion, it is more in keeping with the meanings of the free market and the fostering of competition as a means of achieving it.","","","","","",""
+"90","007508@2012.nl","div","Most importantly, pursuing plurality as a policy aim postulates that availability of diversity of views (including very partial views) is a key factor which underpins democratic debate. If we start from a concept of plurality designed to achieve diversity of view points and preserving excessive influence over public opinion measuring such plurality can be a daunting task. It seems clear that diverse ownership is not a surrogate (or even a guarantee) of diversity. ","","","diversity of viewpoints","","",""
+"91","007866@2005.nl","div","A central problem here is what is meant by diversity, and how we should assess it. Should we understand by diversity the number of owners of media outlets? Or rather (perhaps in addition) the number of sources that provide content?
+
+Philip Napoli has written astutely on the varieties of diversity. In a useful typology, Napoli (1999) identifies source diversity as encompassing ownership (within which there is a subset distinction between the ownership of out- lets and the ownership of content
+
+Content diversity encompasses format or program-type diversity, demographic diversity (particularly whether minority groups and other demo- graphic groups are portrayed on television in reasonable proportion to their prevalence in society, a metric that has not been central to policymakers, but has been important to communication studies), and, of course, idea-viewpoint diversity. Exposure diversity, in Napoli’s view a neglected dimension, considers the diversity of content “as received,” in the sense of actual media selection by audiences.
+
+ This was what we now call for- mat diversity, understood vertically, that is, within each broadcast outlet.","Philip Napoli (1999)","","viewpoint diversity","","source diversity","content diversity"
+"92","007907@2006.nl","div","This article uses as a basis for discussing cultural diversity policies in Mexico the analytical framework developed by Napoli (1999), who distinguished among three broad components of media diversity: source diversity, content diversity, and expo- sure diversity. Next, Napoli’s components and subcomponents are used to review to- day’s situation in Mexican television
+
+In many policy debates, source diversity is seen as the most important factor to fos- ter diversity in the mass media. According to Napoli (1999), this dimension has been traditionally conceptualized by policymakers in three separate ways: ”(a) in terms of the diversity of ownership of content or programming, (b) in terms of the diversity of ownership of media outlets, and (c) in terms of the diversity of the workforce within individual media outlets” (p. 9)
+
+According to Napoli (1999), content diversity has three different subcomponents: format or program-type diversity, demographic diversity, and idea-viewpoint diversity.
+
+According to Napoli (1999), the concept of exposure diversity is divided into two components: horizontal diversity and vertical diversity. The former “refers to the distribution of audiences across all available content options, whereas vertical ex- posure diversity refers to the diversity of content consumption within individual au- dience members” (p. 26).","Napoli (1999);","content diversity","content diversity","content diversity","source diversity ",""
+"93","007927@2007.nl","div","Citing Doyle (2002: 11), once again, ‘pluralism is generally associated with diversity in the media; the presence of a number of different and independent voices, and of differing political opinions and representations of culture within the media’. There are two types of pluralism: external or structural pluralism and internal pluralism. External pluralism relates to the diversity of ownership within a specific market. It is achieved when there is a plurality of broadcasters and outlets in a sector. Internal pluralism refers to the diversity of output. It is achieved when extensive coverage and diversity of programming are provided by media outlets. Restrictions on media ownership are not sufficient in themselves to guarantee diversity of output reflecting different political and social views,","Doyle (2002)","presence of different voices","differing opinions","","",""
+"94","007928@2007.nl","div","The media should allow for pluralistic competition among parties and individuals for all positions in power. This specific conception of the role of the media leads to the requirement of availability and balance of the news in terms of both the amount of coverage of issues and the way these issues are covered. This diversity can be reached in different ways, either by treating external diversity between various media outlets that have strong political leanings or internal diversity, in which case the outlet does not take a stance, but presents multiple and contrasting perspectives on a certain issue. ",NA,NA,"frame diversity",NA,NA,NA
+"95","007934@2007.nl","div","D. G. McDonald and Dimmick (2003) and G. M. McDonald and Lin (2004) criticized previous studies of media diversity for being just descriptive in nature. They argued that statistically significant differences in mean values cannot accu- rately reflect the true diversity. These researchers proposed that media diversity measurement should incorporate two dimensions (Junge, 1994; D. G. McDonald & Dimmick, 2003; G. M. McDonald & Lin, 2004). The first dimension is the number of categories, and the second is the proportion of objects distributed to these categories. Thus, for example, in a study of newspaper content diversity, a set of discrete classifications of news content is the categorical dimension, whereas the second dimension is the percentages of each classification.
+D. G. McDonald and Dimmick (2003) and G. M. McDonald and Lin (2004) proposed that measurement of media diversity should consider the interaction of these two dimensions. These researchers support a more appropriate statistical test that advances beyond descriptive studies of diversity. They pointed out that the measure of diversity (a) should vary between 0 and 1.00 (0 indicates no diversity and 1.00 indicates the highest degree of diversity), (b) should consider the condition where no population members are assigned to additional categories (in such case, the value of diversity should not be changed.), and (c) should be able to partition variance within the measures to assess contributions of other variables to diversity or statistical differences (G. M. McDonald & Lin, 2004). This study employed Simpson’s D, which has these three characteristics (D. G. McDonald & Dimmick, 2003; G. M. McDonald & Lin, 2004), to test newspaper diversity.
+
+This study assesses newspaper diversity from the perspective of “subject con- tent,” using 20 categories from prior studies (Chem et al., 2003; Johnson & Wanta, 1993; Lacy, 1987; McQuail, 1992; Voakes et al., 1996).","D. G. McDonald and Dimmick (2003); G. M. McDonald and Lin (2004); Chem et al., 2003; Johnson & Wanta, 1993; Lacy, 1987; McQuail, 1992; Voakes et al., 1996",NA,NA,"subject content",NA,NA
+"96","008152@2010.nl","div","For its theoretical framework, this article follows Doyle’s (2002) and the Council of Europe’s (1994) definitions of pluralism, understood as the concurrence between internal and external pluralism. Internal pluralism refers to the diversity of media content offering independent voices, diverse political opinions, and different representations of citizens in the media; whereas external pluralism refers to the diversity of media owners, reflected both by the plurality of independent and autonomous media. Therefore, the idea of pluralism encompasses and requires both a diversity of media content and a diversity of media owners. However, this article will focus on external pluralism through regulation and media policy, as well as on its impact on the Spanish media system. It will study the evolution of media regulation and its impact on different media, rather than the diversity of content offered to the general public.","Doyle (2002); Council of Europe (1994)","voices","diverse political opinions","","media owners",""
+"97","008192@2010.nl","div","As the FCC explained at length in 2002, there are many different versions of diversity.
+Biennial Report and Order, 18 F.C.C.R. 13620, 13627 (2002) (listing viewpoint diversity, programming diversity, outlet diversity, source diversity, and minority and female ownership diversity)
+
+One of these—viewpoint diversity— refers to the extent of different types of ideas and communications available in a broadcast market.","Biennial Report and Order, 18 F.C.C.R. 13620, 13627 (2002)",NA,"viewpoint diversity ",NA,NA,NA
+"98","008237@2011.nl","div","Although diversity is a rich and multifaceted communications policy-making principle (see Napoli, 1999), over time it has become increasingly tied to concerns about concentration of media ownership (Napoli & Gillis, 2006)
+
+Consider the notion of cultural diversity, a well-established manifestation of the diversity principle in the communications sector (UNESCO, 1995, 2002). According to UNESCO (1995), cultural diversity is defined as
+the manifold ways in which the cultures of groups and societies find expression. . . . Cultural diversity is made manifest not only through the varied ways in which the cultural heritage of humanity is expressed, augmented, and transmitted through the variety of cultural expressions, but also through diverse modes of artistic creation, production, dissemination, distribution and enjoyment, whatever the means and technologies used. (Article 4, no. 2)
+
+This concern about “national diversity” (i.e., the extent to which a multitude of national cultures remain vibrant and resistant to submersion beneath a few dominant cultures; see Norris & Engelhart, 2008) is persistent—and perhaps even intensified—given the greater challenges to limiting the cross-border flows of content that characterize the contemporary media environment.
+
+The term user-focused diversity is being employed here to capture the more granular analytical lens that is finding its way into diversity policy discourse. The sphere of diversity policy is extending beyond its traditional, institutionally-focused boundaries, thereby incorporating concerns that have long resided at the margins of mainstream diversity policy priorities.
+Policymaking has begun to take into account today’s more empowered media user (see, e.g., Organisation for Economic Cooperation and Development, 2007).","Napoli, 1999; Napoli & Gillis, 2006; UNESCO (1995); Norris & Engelhart, 2008; Organisation for Economic Cooperation and Development, 2007","","","","","cultural, linguistic, nationalistic, user-focused"
+"99","008311@1999.nl","div","In short, there are many conceptual distinctions of the term “media diversity,” including diversity of access, diversity of choice, balance in the presentation of news, linguistic and geographical diversity, internal and external diversity. However, two subconcepts of diversity, that of access and choice for the audience, are the two notions that have been placed high on the agenda of regulators and policymakers when considering media concentrations. Regarding diversity of access, the key question is whether the possibility of establishing new media companies leads to the situation where all legitimate interests in a given society have an equal (or proportional) share of access to media channels. Regarding diversity as choice, the key question is whether an increase in channels actually leads to greater choice for the audience.
+
+Diversity of Ideas.
+Diversity of Products.
+External andInternal Diversity
+
+Since the market model encourages the proliferation of channels and new audience markets, it can lead to increased numerical diversity, that is, more channels and theoretically more consumer choice. The quantitative diversity of variety of channels, however, does not necessarily provide qualitative diversity of media content. In other words, ”there is a big difference between media pluralism and message pluralism and we must be careful not to confuse media abundance with media diversity.","Dennis McQuail, Media Performance:Mass Communication and the Public lnterest (London: Sage, 1992), 142.; Cento Veljanovski, The Media in Britain Today (London:News International plc, 1990).;
+Wolfgang Hoffmann-Riem, “National Identity and Cultural Values: BroadcastingSafeguards” Journal of Broadcasting 31 (winter 1987):60-61.;
+T. R. Donohue and T. L. Glasser, ”Homogeneity in Coverage of Connecticut Newspapers,” Journalism Quarterly 55 (autumn 1978):592-96.","Person diversity","diversity of ideas, diversity of content","issue diversity","","Product diversity, geographical diversity"
+"100","008351@2000.nl","div","Vertical diversity (VD) of news topics, showing diversity in using available news topics by the networks",NA,NA,NA,"vertical diversity of topics",NA,NA
+"101","008401@2002.nl","div","The general policy imperative that drives concerns about the viability of minority- targeted media outlets stems from policymakers' long-standing commitment to diversity in the sources of information and the content that these sources provide (Napoli, 1999a). The diversity principle extends, in part, from the traditional dem- ocratic theory notion of a well-functioning ""marketplace of ideas,"" in which citizens' abilities to participate effectively in the democratic processare contingent upon their abilities to consider a wide array of ideas and viewpoints from a wide array of sources (Napoli, 1999b; Sunstein, 1993). Diversity concerns have economic moti- vations, as well, since policymakers have sought to maximize the choices available to media consumers, thereby increasing their overall satisfaction (Entman & Wildman, 1992; Napoli, 1999b).
+
+For the ""marketplace of ideas"" to enhance citizen knowledge and the consideration of diverse viewpoints, citizens must be exposed to diverse points of view (Napoli, 1999a). It has been argued that this exposure diversity is particularly vital within the context of minority media so that greater cultural understanding and social cohesion can be achieved (Rogovin, 1992).","Napoli, 1999; Sunstein, 1993;Entman & Wildman, 1992; Rogovin, 1992",NA,NA,NA,"source diversity","content diversity"
+"102","008800@2006.nl","div","So is more diversity always better? Belief that diversity can be absolute or linear value is easy enough to repudiate. It might seem that all things plural, diverse and open-ended are to be automatically regarded as good. But as McLennan (1995) has pointed out, in deconstructing it, we are faced with questions of the following order: Is there not a point at which healthy diversity turns into unhealthy dissonance?
+
+Similarly, while media diversity clearly denotes heterogeneity on some level, it can be defined in any number of ways and it can refer to any aspect of the media: sources, outlets, opinions as well as genres and representations. In debates on media policy, di- versity can refer to the extent which media contents reflect and serve various interests and opinions of the public, or it can refer to the general diffusion of media power in society on the level of ownership, economic structures, and political influence. Consid- ering the variety in possible definitions of diversity, empirical evidence on the relations of different aspects of diversity tends to be very ambiguous too
+
+As Van Cuilenburg (1998) puts it, media diversity al- ways has to be ’gauged’ in some way to the variations in social reality. The question arises then, how to conceptualize this relationship. How are the differences against which diversity is examined constructed, institutionalized and operationalized?
+Here, most studies follow McQuail’s (1992: 144-145) conceptualization, in which the media is seen to contribute to diversity in three ways: (1) by reflecting existing differ- ences in society, (2) by giving equal access to any different points of view, or (3) by offering a wide range of choice for individuals. Each of these implies a different inter- pretation on the meaning of media diversity and the standard by which it should be as- sessed.
+
+Van Cuilenburg (1998: 41) has presented some of these problems in ‘diversity paradoxes’, contradictions between the aspects of diversity that cannot be reconciled. For instance, more reflective diversity usually goes with less diversity in terms of equal access for all groups. Similarly, the explosion of information increases choice but also bring along waste and overload of information. Even though the expansion of channels might lead to increased choice, there is no cor- responding effect on the citizens’ access to relevant information. On the contrary, in- crease in the diversity of supply may reduce the actual consumption of diversity (expo- sure diversity) (Gibbons, 2000: 308-311; Van der Wurff, 2004: 216).
+
+In any case, the interpretation of diversity in terms of programme types or genres has consequently become the common focus of both scholarly and policy debates on media diversity (van der Wurff 2004: 216).","McLennan (1995); Van Cuilenburg (1998); McQuail (1992); Gibbons, 2000; Van der Wurff, 2004","","diversity of opinions","programme-type diversity","structural diversity/diversity of ownership/outlets",""
+"103","008908@2003.nl","div","In the Notice of Inquiry published pursuant to the first [1998] Biennial Regulatory Review, 5 the Commission placed diversity at the forefront in defining the framework for review. It recognized three types of diversity: (1) viewpoint: ""helping to ensure that the material presented by the media reflect a wide range of diverse and antagonistic opinions and interpretations,"" (2) outlet: ""a variety of delivery services (e.g., broadcast stations, newspapers, cable and DBS) that select and present programming directly to the public,"" and (3) source: ""promoting a variety of program or information producers and owners.""6
+
+In the Report
+announced on June 2, 2003, the Commission recognized five types of diversity, reflecting changes in thinking on diversity since the first [1998] Review. (1) Viewpoint diversity ""refers to the availability of media content reflecting a variety of perspectives. A diverse and
+robust marketplace of ideas is the foundation of our democracy. ' 30
+(2) Programdiversity means ""a variety of programming forms and content""-for example, drama, comedy, news, reality shows, and sports for television.31 In 1998 program diversity had been considered a part of (3) source diversity, which refers to ""availability of media content from a variety of content producers. Program diversity was not thought to require extensive justification. ""[W]e expect program diversity to be best achieved by relying on media companies responding to consumer preferences. 35 (4) Outlet diversity, ""in a given market, there are multiple independently owned firms, '36 is used to measure viewpoint diversity.
+The Commission reaffirmed (5) advancement of minority and female media ownership as an important diversity objective. It described several creative proposals and expressed an intent to issue a Notice of Proposed Rule Making.38
+
+Three measures were used to determine diversity. A ""Diversity
+Index"" developed by Dominick and Pierce 134 indicates ""the extent to
+which a few categories dominate prime time.' 135 ""Vertical diversity""
+is a sign of concentration of genres in the overall schedule, and
+""horizontal diversity"" evaluates viewer choice of genre in the same 36
+time period.1
+
+The Commissioners introduced a statistical measure to justify the cross-owned combinations, the Diversity Index (DI). The DI is
+modeled on the Herfindahl-Hirshmann Index (HHI), which is a tool used to analyze concentration in a given industry. A high HHI value is an indicator of high concentration. ","J. R. Dominick and M. C. Pearce, Trends in Network Prime-Time Programming,1953-74, 26 J. OF COMMUNICATION, (1976), 70-80.
+
+In the Matter of 1998 Biennial Regulatory Review, Notice of Inquiry (1998), available at <http://www.fcc.gov/Bureaus/MassMedial Notices/1998/fcc98037.txt > (last visited March 19, 2003).
+
+In the Matter of 2002 Biennial Review, Report and Order and Notice of Proposed Rulemaking (2003), at 19, available at <http:llwww.fcc.gov/ DailyReleases/DailyBusiness/2003/db07O2/FCC-03-127Al.pdf> (last visited July 9, 2003).
+","","viewpoint diversity","Program diversity","outlet diversity/source diversity","advancement of minority and female ownership"
+"104","008915@2000.nl","div","Consistent with the literature, diversity was defined in terms of the variation of news content, sources and viewpoints, The more viewpoints that are represented in a news story, themore diversity is said to be present. I I Greater variety among sources' gender, age, ethnicity and occupation also means greater diversity exists. This parallels definitions proposed by Paul Voakes and associates in 1996, and Phil Jacklin in his 1978 article, Representative Diversity. 12","Paul Voakes and associates in 1996; Jacklin (1978)","source roles (also seen as diversity of viewpoints)",NA,NA,NA,NA
+"105","008977@2006.nl","div","Specifically for the study at hand, the focus of diversity will be on gender, examining the parity between male and female sources in news content.",NA,"Gender diversity of sources",NA,NA,NA,NA
+"106","009007@2007.nl","div","In 1977, Chaffee and Wilson used the H-statistic to measure diversity of people's thinking about issues in the news. 
+
+Recently, Culbertson used the H-statistic to measure agenda diversity— comprehensiveness of topics covered—in varied news-related messages.
+
+
+Variation was measured here by calculating the percentage of ""para- graph mentions"" in a given paper devoted to each topic. The researcher then computed the standard devia- tion (SD), a measure of variation, of these percentages.
+If number of topics covered and SD tap a single underlying concept of agenda diversity, they ought to correlate highly and negatively with each other.
+
+
+1. H (micro topics)
+2. No. of topics (micro)
+3. Standard deviation
+(micro)
+4. H (macro topics)
+5. No. of topics (macro)
+6. Standard deviation
+(macro)","Chaffee and Wilson (1977); 
+26. Hugh M. Culbertson, ""American and Filipino Editorials on the 1986 Philippine Election and Revolution,"" Philippine Communication Journal 1, no. 3 (fune 1987): 1-14, ",NA,NA,"agenda diversity",NA,NA
+"107","009009@2004.nl","div","Do the two newspapers offer edi- torial diversity on such variables as geographic preference of topics, such as local, state/region, national and in- ternational; frequency of editorials published of a controversial nature; variety and frequency of editorial top- ics and political ideology (i.e. Demo- crat vs. Republican) as reflected in opinions on presidential policies?",NA,NA,"political ideology/controversy","topic",NA,"geographical diversity"
+"108","000143@2018.nl","ech","Echo chambers, on the other hand, result from
+people being over-exposed to information due to the same mechanisms, with the effect
+of reinforcing their existing beliefs and creating a false impression of the extent to which
+those views are shared by the population as a whole.",NA,NA,NA,NA,NA,NA
+"109","000286@2018.nl","ech","These changes in news information flow have led scholars
+and journalists to voice concern that social media is promoting filter bubbles where
+people are isolated from news due to personalized filtering and echo chambers where
+people are increasingly surrounded by information shared from like-minded friends
+and acquaintances (Pariser, 2011; Sunstein, 2017).","Sunstein (2017)",NA,NA,NA,NA,NA
+"110","000421@2018.nl","ech","Echo chambers occur when people with the same interests or views interact primarily
+within their group. They seek and share information that both conforms to the norms
+of their group and tends to reinforce existing beliefs (Jamieson & Cappella, 2008; Sunstein,
+2009)","Jamieson & Cappella, 2008; Sunstein,
+2009",NA,NA,NA,NA,NA
+"111","001772@2016.nl","ech","The power-law distribution of links may lend support to scholars concerned with the Internet’s potential to become an echo chamber. Sunstein (2006) writes: ‘What we now know about both links and individual behavior supports the general view that many people are mostly hearing more and louder echoes of their own voices’ (p. 55).
+
+ Some scholars share Sunstein’s (2001, 2006) pessimistic view that the Internet intensifies selective exposure, creating an ‘echo chamber’ where citizens hear the same narrow band of opinions (Morozov, 2011; Pariser, 2011; Shirky, 2003)","Sunstein’s (2001, 2006); (Morozov, 2011; Pariser, 2011; Shirky, 2003)",NA,NA,NA,NA,NA
+"112","001823@2016.nl","ech","Finally, the existence of echo chambers, i.e., groups of like-minded who mainly talk to each other (e.g., Sunstein, 2009), can be fully studied.
+
+Related to this is the issue of polarisation and echo chambers that have been recognised as features of digitalised political communication. According to Sunstein (2009, p. 76), society might be better off 'if greater communication choices produce greater extremism' because 'when many different groups are deliberating with one another, society will hear a far wider range of views'. ","Sunstein (2009)",NA,NA,NA,NA,NA
+"113","002061@2016.nl","ech","So-called “echo chambers” – wherein political discussions are primarily or exclusively one-sided – have been discovered in numerous online communities (see Adamic and Glance, 2005; Boutet et al., 2013)","Adamic and Glance, 2005; Boutet et al., 2013",NA,NA,NA,NA,NA
+"114","002852@2014.nl","ech","The political discourse taking place in these enclaves is characterized by a disregard of discrepant information and a high degree of cognitive errors. An exchange of ideas, a critical reflection of one’s viewpoints or the simple listening to different opinions becomes unlikely in these ‘echo chambers’ (Sunstein 2002) or ‘virtual bubbles’.","Sunstein 2002",NA,"political attitudes",NA,NA,NA
+"115","002938@2014.nl","ech","The question of political homophily is important because it concerns the ability of
+digital media to support the formation of a public sphere, where a diversity of opinion
+and information can interact, or, conversely, to function as an echo chamber that
+reinforces established perspectives and opinions.
+
+Other authors contest this public sphere scenario, suggesting that instead of
+reinforcing democratic discussion, the Internet reinforces prior political views due
+to selective exposure to political content (Bimber & Davis, 2003; Davis, 1999; Galston,
+2003; Mutz & Martin, 2001; Noveck, 2000; Sunstein, 2001; Wilhelm, 1998). In
+this case, the Internet functions as an echo chamber where political orientation is
+reaffirmed (Sunstein, 2001).","Sunstein, 2001",NA,"partisans",NA,NA,NA
+"116","002941@2014.nl","ech","Finally, by analyzing
+our behavioral data not only at the micro-level but also at the macro-level, we can examine
+whether individuals’ media repertoires translate into online echo chambers, that is,
+when taken together, individuals’ selectivity creates two different homogeneous audiences,
+one from the left and the other from the right.",NA,NA,"ideological content",NA,NA,NA
+"117","002959@2014.nl","ech","This results into the creation of
+echo-chambers where like-minded individuals talk with each other and, as a result, reinforce
+each other’s views. In our work, we found that Twitter users segregate themselves
+into echo chambers by sharing like-minded opinions even though they are exposed to
+different opinions.",NA,NA,NA,NA,NA,NA
+"118","004796@2009.nl","ech","Would online political communication herald an era of ‘‘echo chambers,’’ of political fragmentation and social polarization (Sunstein, 2001)?
+
+there is little evidence that they will use the Internet to create echo chambers, devoid of other viewpoints, no matter how much control over their political information environment they are given. "," Sunstein, 2001",NA,NA,NA,NA,NA
+"119","000007@2019.nl","fil","Regarding personalization, a primary concern about algorithms as
+news gatekeepers is their capacity to tailor information encounters,
+typically described as leading to echo chambers (Sunstein, 2002, 2018)
+or “filter bubbles” (Pariser, 2011). This personalization, it is argued,
+limits what people see and experience, particularly from opposing
+viewpoints, and ultimately may narrow their knowledge and choices","Pariser (2011)",NA,NA,NA,NA,NA
+"120","000142@2018.nl","fil","Pariser (2011) among others (Sunstein 2017, 2001) predicted the rise of “echo
+chambers” in these filter bubbles as characterized by users exposed to only confirming
+opinions/content (Flaxman, Goel, and Rao 2016).","Pariser (2011), Sunsteine (2017,2001)",NA,NA,NA,NA,"Links shared"
+"121","000143@2018.nl","fil","But it has also prompted fears over the possible
+emergence of echo chambers and filter bubbles. Though these concerns are subtly different,
+both are rooted in the idea that ever more responsive algorithmic selection will narrow
+the range of information people are exposed to. With filter bubbles, the idea is that
+certain information will be hidden from people, either because it is deemed unpopular,
+of low quality, or does not match with the preferences, interests, and beliefs inferred
+from their past behaviour (Pariser 2011).","Pariser (2011)",NA,NA,NA,NA,NA
+"122","000159@2018.nl","fil","The ‘filter bubble effect’ (Pariser, 2011) is a metaphor for technology that only serves us information that is consistent with what we already know and feel about our world.
+
+Previous research, by addressing filter bubbles as primarily a technical phe- nomenon, effectively operationalises technical determinism. The object of the current analysis, by contrast, is to demonstrate that the filter bubble is as much a social concern as a technical problem: if not more so.
+
+Ostensibly, it is not a new concept: just reading the same politically affiliated newspaper is the prototypical form of ‘bubbling’ (the practice of creating a filter bubble). In 1995, Negroponte predicted that the World Wide Web would amplify bubbling. He called it the ‘daily me’ effect–that produces a ‘kind of newspaper printed in an edition of one’ (Negroponte, 1996: 153). By 2006, Sunstein was saying the Web had allowed us to cre- ate our own information cocoons (Sunstein, 2006).
+"," (Pariser, 2011); Negroponte, 1996; Sunstein, 2006",NA,NA,NA,NA,NA
+"123","000286@2018.nl","fil","These changes in news information flow have led scholars
+and journalists to voice concern that social media is promoting filter bubbles where
+people are isolated from news due to personalized filtering and echo chambers where
+people are increasingly surrounded by information shared from like-minded friends
+and acquaintances (Pariser, 2011; Sunstein, 2017).","Pariser(2011)",NA,"Partisan online news exposure",NA,NA,NA
+"124","000421@2018.nl","fil","The filter bubble argument suggests algorithmic
+filtering which personalizes content presented on social media and, through use
+of search engines, could exacerbate the tendency for people to select media and content
+which reinforce their existing preferences (Pariser, 2011)","Pariser 2011",NA,NA,NA,NA,NA
+"125","000532@2018.nl","fil","Theoretical concepts such as Pariser’s (2011)
+filter-bubble hypothesis suggest that, instead of ensuring diversity, algorithms aim
+at maximizing economic gain by increasing media consumption. According to this rationale,
+algorithms filter out information that is assumed to be of little interest to individual
+users while presenting more content that users are more likely to consume.","Pariser (2011)",NA,NA,NA,NA,NA
+"126","000610@2018.nl","fil","This warning mirrors the debates on ‘filter bubbles’ (Pari- ser, 2011), ‘echo chambers’, ‘information cocoons’ (Sunstein, 2007) and other concerns in the academic and public debates over the fragmentation of public discourse
+
+From the liberal-individualist perspective, ‘filter bubbles’ and other mechanisms that narrow consumers’ exposure to diverse views can be regarded as a form of market failure that constricts individual autonomy and prevents people from accessing what they actu- ally want","Pariser 2011","","","","",""
+"127","001326@2017.nl","fil","Beneficial information
+(e.g., preventive content) might be excluded by the algorithm as it
+is presumed to be of no vital interest to the user—the filter bubble
+hypothesis (Pariser, 2011).","Pariser (2011)",NA,NA,NA,NA,"URLs"
+"128","002059@2016.nl","fil","potentially creating “filter bubbles” (Pariser 2011) in which algorithms inadvertently amplify ideological segregation by automatically recommend- ing content an individual is likely to agree with","Pariser 2011",NA,"Political slant",NA,"Consumption channel",NA
+"129","002230@2015.nl","fil"," Users will be placed in a ‘‘filter bubble’’ and they will not even know what they are missing (Pariser 2011).
+
+
+This is because the filter bubble has become a term that encom- passes various criticisms. These criticisms differ because democracy is essentially a contested concept and different democracy models require different norms. As this paper will show, some will criticize the filter bubble due to its negative effect on user autonomy and choice, while others emphasize the diminishing quality of information and deliberation.
+
+While the filter bubble has been a concern for many, there are different answers to the question as to why filter bubbles are a problem for our democracy.","Pariser (2011)","","","","",""
+"130","002940@2014.nl","fil","While personalization has many benefits, there have also been concerns
+raised about the potential for personalization to result in exposure to a narrower range of viewpoints, a phenomenon referred to as the ‘‘filter bubble’’ (Pariser, 2011).
+
+Thus, although the filter bubble has been discussed mostly in the context of website personalization, the tendency of people
+to read information that supports their own viewpoint, rather than diverse opinions on a topic, has
+been broadly observed in a variety of decision-making contexts. We term the filter bubble created
+when a person actively selects (or avoids) reading material the self-imposed filter bubble.","Pariser, 2011",NA,"democrat - republican",NA,NA,NA
+"131","000234@2018.nl","oth","Finally, live blogs are notable for their intertextuality and polyvocality (Tereszkiewicz 2014)
+
+polyvocality (the diversity of who gets to speak)","Tereszkiewicz 2014","polyvocality (the diversity of who gets to speak)",NA,NA,NA,NA
+"132","002508@2015.nl","oth","We, on the other hand, claim that the distinction between pluralism and diversity is extremely relevant for both a theoretical and empirical reflection on media and democracy, as they underlie different perceptions of plurality.
+
+This ontic/onto- logical distinction allows us to understand the contrast between ‘diversity’ and ‘plural- ism’ as the difference between two dimensions of plurality. ","","","","","",""
+"133","003412@2014.nl","oth","Based on the discussion of diversity raised by McQuail (1998), this study distinguishes inter-media homogeneity from intra-media homogeneity.","McQuail 1998",NA,NA,"agendas",NA,NA
+"134","004803@2009.nl","oth","Media plurality is a political goal and there is a far-reaching consensus in democracies that it should be maintained so as to guarantee a free and diverse communications landscape. There is, however, neither a consensus on what constitutes plurality (e.g.is it a plurality of owners, a plurality of channels and titles and variations within them, or a diversity in content/ideas), nor on how this goal can adequately be achieved, let alone empirically measured. Heinrich (1994: 93f.) thus even questions the extent to which plurality can be an appropriate goal of media policy. In Austria, the term ‘media plurality’ was clarified in the amendment to the 2001 Cartel Act, and is defined as a plural- ity of independent media through which coverage that considers different views is guaranteed. ","","","","","",""
+"135","005836@2000.nl","oth","According to this model, a provider of nation- wide full program services or of specialized programs focusing on informa- tion should only be allowed to operate if it held less than 50% of the capital or voting rights and if it did not exercise a ""comparable controlling influence"" in any other way (element of internal plurality)  and if it distributed at most two radio and two television programs and respectively only one full program or specialized program focusing on information (element of external plurality).1","Rundfunkstaatsvertrag","","","","",""
+"136","007507@2012.nl","oth","Plurality rules have long been used to ensure diverse ownership of media, with the expectation that this leads to the availability of diverse news coverage to citizens, which in turn supports democratic discourse.
+
+At is its crudest, plurality might simply be the number of persons with control, but it is widely accepted that this is far too blunt a definition. In seeking to apply this test, Ofcom has therefore considered issues of market share, internal plurality (Content diversity within a single media group), levels of multi-sourcing, wholesale versus retail provision57 and so on. (It did not however go as far as recommended by a 2009 study published by the European Commission, which suggested a battery of 166 metrics to be used for assessing plurality). (KU Leuven et al, Independent Study on Indicators for Media Pluralism in the Member States – towards a risk- based approach, April 2009)
+","KU Leuven et al, Independent Study on Indicators for Media Pluralism in the Member States – towards a risk- based approach; ","","","","",""
+"137","007508@2012.nl","oth","The key point is that plurality primarily concerns the number and range of ""voices"" and not whether those voices are impartial. 
+
+Where only some of the activities of a media group are subject to impartiality requirements, this is likely to lead to greater ""internal plurality"" within a media group (e.g. in the UK a group comprising newspaper and broadcast will be more internally plural because of the additional impartiality obligation applying to broadcast news which does not apply to newspapers). However, such ""internal plurality"", while it helps complete the picture, does not entirely replace the need for a plurality of media controllers.
+
+
+This underpins the distinction, now mainstream in regulatory jargon, between ""external plurality"" (distinct voices which operate under separate control) and ""internal plurality"" (distinct voices within a media group). ","","","","","","internal and external plurality"
+"138","007549@2013.nl","oth","In this article, we analyze the effects of the intensity of readers’ political preferences on media plurality. Media plurality refers to the diversity of political ideas that news firms give voice to in the news market. When the news firms only provide a very limited number of political ideas, the news market is characterized by media uniformity.
+
+To study the links between the intensity of readers’ political preferences and media plurality, we adopt the Hotelling model (Hotelling, 1929).","Hotelling, 1929","","","","",""
+"139","007889@2006.nl","oth","Their baseline prediction is the functional homogeneity of national news. Borrowing a (somewhat controversial) term from evolutionary science, let us call the phenomenon of broad homogeneity across national media with occasional important episodes of deviation from a single, standard line punctuated homo- geneity. Significant deviations are those repeated and amplified by a wide range of national media, ultimately provoking responses from government authorities who have at least the potential to influence policy decisions. When the deviations from homogeneity reach a critical mass they can encourage opposition from elites","Sparrow; Benson, Cook, and Ryfe (all in the same issue as original article)",NA,"frames",NA,NA,NA
+"140","000243@2018.nl","plu","This is manifested in the diminishing of media pluralism particularly in terms of content, ownership, and access to the media.","","","","","concentration of ownership",""
+"141","000291@2018.nl","plu","This paper concentrates on social pluralism in the media, which is the ability of the mass media to describe and take into account the different cat- egories of citizens in a society. Hence, the present study adopts what Valcke (2011) calls the “reflective dimension” of pluralism, which “can be conceived and interpreted in a socio- demographic sense to refer to the proportional representation of different communities in the media” (207).
+
+degree of internal social pluralism, that is, the distribution of airtime amongst social actors within the state-controlled TV channels1 (Rai 1, Rai 2 and Rai 3) and, separately, within the three Mediaset channels controlled by Berlusconi’s family (Rete 4, Canale 5 and Italia 1). 
+
+Secondly, we evaluated the differences in social pluralism between private and state- controlled free-to-air television channels (external pluralism).
+
+Firstly, our concept of “social pluralism” lies between content diversity and viewpoint diversity, since we consider the distribution of the TV airtime across different social actors. "," Valcke (2011)","social pluralism",NA,NA,NA,NA
+"142","000467@2018.nl","plu","Raeijmaekers and Maeseele
+(2015) developed four conceptions of media pluralism. Under their critical pluralism
+model, the media represent “sites of struggle” over the contestation of ideological viewpoints
+(1052–1054) and function as a purveyor of a plurality of viewpoints that can represent
+the public’s interest. This model can assist in explaining how news organizations
+can encourage a diverse set of viewpoints and facilitate the development of new political
+positions.","Raeijmaekers and Maeseele
+(2015)",NA,NA,NA,NA,NA
+"143","000699@2018.nl","plu","At its core, media pluralism is a normative concept, re- lated to the democratic idea of free debates, implying the ability to challenge existing power relations and to engage in a debate based on the merits of the better argument (cf. e.g., Hrvatin & Petković, 2015; Karppinen, 2013). At the same time, it is not possible to determine an ideal score of perfect pluralism. As pluralism is not a value in itself (‘the more, the merrier’), it is restricted to (what is deemed to be) legitimate ideas presented in an accepted manner with reasonable arguments.
+
+In this context, Valcke, Picard and Sükösd (2015) dif- ferentiate between external pluralism, the plurality of media outlets and media ownership, and internal plu- ralism, the plurality of opinions in actual reporting. As the authors highlight, although the conditions of external pluralism ‘increase the possibility of achieving the objec- tives of pluralism, they do not guarantee it because they are not necessary and sufficient conditions for its exis- tence’ (Valcke et al., 2015, p. 2). Nevertheless, attempts to measure media pluralism focus on external pluralism, not only because it is easier to measure, but also because policy measures to improve—or in the case of authoritar- ian regimes, restrict—media pluralism are foremost di- rected at external pluralism (cf. e.g., Aslama et al., 2007; Picard, 2000).
+
+In order to measure internal pluralism, this analysis refers to ‘sources’ (i.e., various political and ideological groups) as well as ‘opinions’ (i.e., various viewpoints and interests). The first aspect indicates the variety of people or institutions being quoted by journalists. The key ques- tion concerning ‘limited pluralism’ here is to what extent voices not belonging to the ruling elites are being quoted and which voices in particular. The second aspect indi- cates a variety of opinions (independently of the author). The key question concerning ‘limited pluralism’ here is to what extent diverging and conflicting opinions can be voiced in the media.","Hrvatin & Petković, 2015; Karppinen, 2013;Valcke, Picard and Sükösd (2015); Aslama et al., 2007; Picard, 2000;","sources","opinions",NA,NA,NA
+"144","000926@2017.nl","plu","For example, providing these governments were willing to shoulder the cost of
+licensing and analysing “raw” social media-sharing data, they could conceivably calculate
+risks to pluralism in terms of:
+1. Availability (or in MPM terms “supply” or “distribution”), based on which news providers
+are most or least shared.
+2. Consumption (or in the MPM “use”), based on where audiences are accessing news
+stories, including the reach of different platforms’ offerings; their relative share of
+consumption, and the extent of user multi-sourcing across platforms.
+3. Impact or influence—based on its level of recirculation, social velocity, geographic
+spread, presence of commendations and comments.
+
+They suggest that future policy assessments
+for digital media pluralism need to be equipped to identify:
+• The range of independent media voices.
+• The reach and share of those voices across demographics.
+• The absence of voices in key markets.
+• Consumers’ active use from a range of independent news providers.
+• Any one news source having too high a share of consumption.
+• Conditions of relatively free entry into media markets.","Ofcom (2015)","","","","news providers",""
+"145","001052@2017.nl","plu","Arguments for and the conception of pluralism have changed during the
+laborious process. The clearer view of what media pluralism involves
+and the creation of a measurement for evaluating its conditions clearly
+advance consideration of pluralism policymaking. The initiatives make
+clear that the core concern of media pluralism is that media content
+should represent the range of concerns and ideas found across society,
+not merely those of media owners or dominant elements in society
+created by class, race, culture, or geography
+
+In terms of policy trajectory, the European concept of pluralism
+has changed from a narrow focus on the political perspectives represented
+in media and their owners to a wider concept of ensuring media
+inclusiveness of all members of society by ensuring that their issues,
+views and perspectives are represented
+
+The expansion of the pluralism concept may better represent concerns
+in society, but it makes achieving its objectives much more difficult
+and elusive because of the difficulties of fashioning them into
+effective policy.",NA,NA,"political perspectives represented in the media",NA,"ownership",NA
+"146","001072@2017.nl","plu","Since the use of objectivity as an analytical
+ideal only allows for journalism – and its evaluation – within the limits of social
+consensus (pluralism ‘within the box’), it is argued how alternative analytical concepts
+need to allow for the evaluation of journalism about and beyond the limits of social consensus
+(pluralism ‘outside the box’)
+
+To illustrate the difference between both approaches to pluralism and to
+provide a clear-cut example of the latter, the popular analytical concept of partisan media
+bias is juxtaposed to the alternative framework of de/politicization.
+
+In other words,
+since the analytical concept of partisan media bias excludes those matters where there is
+ideological convergence between both parties (say, global neoliberal capitalism and
+American imperialism), it only allows for evaluating pluralism ‘within the box’, that is,
+within the limits of existing social consensus.
+
+In
+that sense, we are urgently in need of news analysis about and beyond the limits of objectivity
+and social consensus, that is, for pluralism ‘outside the box’.","","","ideology (difference of within and outside the box)","","",""
+"147","002045@2016.nl","plu","Media pluralism can thus be measured using different methods depending on the focus and objectives of the task. Measuring media pluralism therefore requires the selection of those indicators that are more appropriate to the key focus of the study. The difficulty in measuring media pluralism is perhaps demonstrated by the failure by the European Union (EU) to adopt a harmonised approach to the matter, opting instead for the subsidiarity principle which gives member states ultimate discretion in choosing an appropriate regulatory model. Although the EU has taken a cautious position against a harmonised approach to measuring media pluralism in its member states, it nevertheless recognises the need to closely monitor media pluralism in the light of its critical role in a democracy. Consequently, the EU has proposed an evidence-based regulatory approach which shifts attention from regulating to monitoring media pluralism.
+
+In proposing a risk-based regulatory approach, the EU has come up with a Media Pluralism Monitor (MPM). This instrument is designed to detect risks to media pluralism and shows underlying causes in order to help policy makers to take informed decisions when setting priorities and shaping policies","Centre for Media Pluralism and Media Freedom, European Union Competencies in Respect of Media Pluralism and Media Freedom (CMPF, 2013) 29.
+
+K Lefever, E Wauters, and P Valcke, Media Pluralism in the EU – Comparative analysis of measurements systems in Europe and US (Steunpunt Media, 2013) 12.
+
+K Lefever, E Lievens, and P Valcke, ‘Risk-Based Regulation in the Media Sector: To Measure Is To Know’ (2012) 41 JAIIO – SID 1 at 3.","","Political pluralism","Pluralism of media types and genres","Pluralism of media ownership ","geographical pluralism"
+"148","002508@2015.nl","plu","which allows us to systematically differentiate between whether social heterogeneity is addressed on an empirical (i.e. diversity) or ideological level (i.e. pluralism).
+
+We, on the other hand, claim that the distinction between pluralism and diversity is extremely relevant for both a theoretical and empirical reflection on media and democracy, as they underlie different perceptions of plurality.
+
+Media pluralism interpreted as ‘affirmative pluralism’ is represented by the metaphor of media as ‘public forums’ and draws on the deliberative school of democratic theory. Conceptually, it addresses the notion of ‘pluralism’
+
+Research starting from the affirmative pluralism-approach focuses both on the diver- sity of identities and concerns – mostly addressed as ‘inclusivity’ – and on the ways dif- ferent identities and concerns are discursively portrayed. In that sense, concerns about quantity and ratio are complemented with concerns about quality.
+
+the criti- cal pluralism-approach is represented by the metaphor of media as ‘sites of struggle’ or ‘fields of contestation’. Conceptually, the metaphor relates to the notion of ‘pluralism’: It is concerned with the discursive contestation of ideological viewpoints.
+
+Similar to the affirmative pluralism-approach, the critical pluralism-approach not only looks at the diversity of identities and concerns, but also at their discursive por- trayal, and is therefore also concerned with the quality of the debate.","","","","","",""
+"149","002524@2015.nl","plu","While the terms pluralism and diversity are frequently used interchangeably—as in this article—the difficulty of distinguishing one from the other also hints at the complexity of the underlying phenomena: media diversity and pluralism can both describe objects as varied as media outlets or platforms, ownership, sources, content, ideas, or forms (Freedman, 2005).
+
+The term pluralism is commonly used when describing various media outlets or diverse ownership structures (van Cuilenburg, 1998).","Freedman, 2005;van Cuilenburg, 1998","","","","",""
+"150","002526@2015.nl","plu","Notions of diversity and pluralism are used throughout the literature differently and are both notoriously difficult to define (Karppinen, 2012). This article adopts the more pragmatic definition by McGonagle (2011), according to which pluralism refers to issues of media ownership and the choice of the public between different providers of services, whereas diversity refers to the range of programs and services available. This article will focus predominantly on matters of diversity.","Karppinen, 2012;McGonagle (2011)","","","","",""
+"151","002528@2015.nl","plu","Media pluralism is seen by Doyle (2014) as an integral part of free speech rights and includes both diversity of ownership and output. But the extent to which media conglom- erates affect content diversity is theoretically debatable and empirically poorly researched. In addition, diversity of suppliers is one factor that impacts pluralism, but jointly with others as size and wealth of the market, consolidation of resources and diversity of out- put. Consequently, this article looks at media concentration as a key factor, but not the only one, which drives media pluralism.","Doyle (2014)",NA,NA,NA,NA,NA
+"152","002533@2015.nl","plu","Media pluralism policy is justified on two main grounds: the provision of a wide range of sources that can be used for democratic discussion and the ability of different groups in a democratic society to express their cultural and values differences in media content.
+
+Political pluralism, which is about the need, in the interests of democracy, for a wide range of political opinions and viewpoints to be represented in the media. Democracy would be threatened if any single voice within the media, with the power to propagate a single political viewpoint, were to become too dominant. Cultural pluralism, which is about the need for a variety of cultures, as reflects the diversity within society, to find expression in the media. (Council of Europe, 1999, para. 4)
+
+In media policy, the idea of pluralism is often used interchangeably with notions such as “diversity,” “plurality of information” and “multiplicity of voices.”
+
+Typically, diversity of source implies that content will be provided by a number of separate organizations—that is, external pluralism, also described as “structural pluralism” (Council of Europe, 1999, para. 3)
+
+What is notable about these varying responses to the fact of pluralism is this: They all suppose that the foundations for a stable political order depend on the different parties engaging with each other, whether to agree common ground, or—in the spirit of Locke’s arguments for toleration—to trade their values or interests for the sake of reaching a practical accommodation.
+
+By contrast to such active conceptions of pluralism, as suggested, the response adopted in media policy is essentially nominal and passive, being content to make provision for the mere presence of differing perspectives in the public domain
+
+Such “active pluralism” would require the deployment of measures that encourage conversation, dialogue, and understanding engagement between different strands of opinion and identity.
+
+This means that the focus of measures for active pluralism would also tend to be on internal pluralism—that is, the variety of material offered by a single media organization, since it is within such an organization that the relationship between different kinds of content can be managed","Council of Europe, 1999","","political pluralism","","",""
+"153","002619@2015.nl","plu","Accounts that rely upon the elision of pluralism – both in terms of access and in terms of multiplicity of content and content creation – and communicative freedom as demo- cratic enrichment depend on an implicit assumption about the consequential relations between pluralism, networked communication, participation and politics. 
+
+Therefore, if this space is expanded, regardless of whether or not this results in greater concentration of media ownership, or further com- modification of user-data online, competition between actors will be increased and power dispersed, generating ‘media counter-power’ (Castells, 2009). This understanding of pluralism may not herald market forces as a guarantor of freedom, but it nonetheless claims that the internet, regardless of its ever-increasing capture by free market media, will empower sovereign audiences through the creative autonomy bestowed upon them.
+
+Yet the ten- dency to elide pluralism with communicative freedom, and to posit the linear correlation of access–communicative freedom/pluralism–political participation, relegates the influ- ence of ‘power over’ in an over-enthusiastic embrace of the ‘power to’. ","","","","","",""
+"154","003082@2014.nl","plu","In other words, rather than
+analyze internal pluralism (i.e., the diversity of form or content in a single news item
+or news outlet), our focus is on external pluralism (i.e., the diversity offered up by a
+larger collection of media outlets and the differentiation among those outlets; see
+Hallin and Mancini 2004: 29).","Hallin and Mancini 2004",NA,"genre","topic",NA,"authors"
+"155","004028@2011.nl","plu","As noted earlier, pluralistic media messages offer a range of confrontational views on issues in cover- age, thus making it possible for the audience to be aware of the presence of controversy and rationales for alternative viewpoints; in contrast, monopolistic media messages emphasize orthodoxy of thoughts and therefore favor the closure of the universe of discourse",NA,NA,"pluralistic media messages",NA,NA,NA
+"156","004147@2011.nl","plu","First, I argue that the normative value currently attached to pluralism is not the result of constitutional or legal necessity, but rather of political decisions subsequently incorporated in the jurisprudence of the Constitutional Court. Second, I argue that, even if pluralism did have its current normative value thanks to legal or constitutional decisions, other alternative values which have also been used to regulate journalism and public service broadcasting were given equal or greater emphasis by these same decisions. Third, I argue that whilst there is widespread agreement amongst politicians that pluralism is valuable, there is great conceptual confusion about the requirements of the term. In particular, at least three conceptions of pluralism recur in debates about Rai. These conceptions – which I call structural pluralism, summative pluralism and pluralism ‘lottizzato’ – concern different aspects of the public broadcaster","","","","","","structural, summative and lottizzato (personal)"
+"157","004238@2010.nl","plu"," Indeed, the degree of diver- sity of points of view that are expressed in the media is a major indicator of pluralism.
+
+The two main criteria we used in order to measure the pluralism of information in our data are those of variety and balance. Variety in this case depends on the number of topics that we isolated in our sample of headlines. Balance depends on the number of headlines per topic.",NA,NA,NA,NA,NA,"Lexical diversity"
+"158","004492@2010.nl","plu","Excessive media concentration can endanger media pluralism (the presence of a number of different and independent voices) 
+
+the Independent Study on Indicators for Media Pluralism in the Member States – Towards a Risk-Based Approach (2009)2 split the concept of pluralism into three normative dimensions – political, cultural, and demographic pluralism – as well as three operational dimensions – pluralism of media ownership/control, pluralism of media types, and genres. ","Independent Study on Indicators for Media Pluralism in the Member States – Towards a Risk-Based Approach (2009)","","","","",""
+"159","005245@2007.nl","plu","See above (used interchangeably with diversity)","See above",NA,NA,NA,NA,NA
+"160","005733@2002.nl","plu","My selection of the Times for study is based on the assumption that the informed publics are most likely to adopt elite cues in the news to structure their thinking about world events and, further, in􏱰uence mass opinions (Zaller, 1992). I shall use “established pluralism” to characterize its discourse about US–China rela- tions, but the generality is far broader.
+
+This discourse ulti- mately stays within—not outside or beyond— the established parameter or the of􏱯cial circle, never taking seriously the dissenting literature that exists alongside the authorized public sphere. Media pluralism within this context means supporting the US interest yet aligning for or against the administration’s policy.
+
+“Established pluralism” may have neutralized con􏱰icting opinions. ","","","","","",""
+"161","005951@2013.nl","plu","‘Pluralism’ and ‘diversity’ are often used interchangeably, especially in European policy debates. In this article, the terms are understood to be distinctly different. Pluralism refers to the number of media outlets, while diversity refers to the type of voices available in these media outlets, and whether the voices of particularly vulnerable social groups (e.g., women, children, the elderly) are represented in media content. While the extent of the former can be assessed through quantitative indicators, it is difficult to assess the latter without a more qualitative approach.","","","","","number of media outlets",""
+"162","005974@2013.nl","plu","Hallin and Mancini provide ample evidence of the high level of politicization in their model, and researchers of media pluralism and media ideology in Spain and other Mediterranean countries have recurrently studied this politicized scenario, providing different examples of the external pluralism mentioned above. External pluralism is a situation in which social and political diversity is not reflected across every media outlet. Under this scenario, every media outlet misses out on the representation of different cultural groups and divergent political or ideological opinions and viewpoints. Yet, diversity is supposed to be found within all outlets, due to the diversity of suppliers and/or media owners (Doyle 2002, 12). ","Hallin and Manchini, 2004",NA,NA,NA,NA,"internal, external"
+"163","005975@2013.nl","plu","Pluralism guarantees that citizens have free access to information that represents all points of view and, consequently, allows them to develop an independent opinion. For this purpose, there are two types of pluralism which, a priori, guarantee the freedom of information: internal and external pluralism. External pluralism refers to the diversity of media organisations and the contents that express the different points of view of a society. This means that pluralism emerges from the variety of companies (public or private), media (printed, broadcast, digital, etc.) and contents that express different editorial lines. On the other hand, internal pluralism occurs within each media organisation, and refers to the diversity of points of view that are included in the news content of each media organisation and reflect the search for neutrality, content balance, and cultural diversity.
+
+A conceptual contribution to the definition of both types of pluralism was made by the Council of Europe (1994) in its fourth European Ministerial Conference on mass communication policy in a democratic society: “Pluralism can be internal, across a wide range of values, opinions, news stories and interests that find a vehicle of expression in the bosom of a particular media sector, or external through some of these bodies, each of them expressing a particular point of view”.","Hallin and Manchini, 2004; Council of Europe (1994)",NA,"Perspectives",NA,NA,NA
+"164","006111@2013.nl","plu",". Indeed, studies in political communication generally find diverse sets of voices represented in the news*within a single news outlet (i.e., internal pluralism) as well as across a number of outlets (i.e., external pluralism)*in democracies where the press remains free from state control (Baum and Groeling, 2008)
+
+Specifically, diversity in the news is maintained both internally and externally. Internal pluralism is defined as pluralism achieved within each media organization, where media outlets maintain neutrality, and avoid strong institutional ties to both social and political groups. By contrast, external pluralism is defined as ‘pluralism achieved at the level of the media system as a whole, through the existence of a range of media outlets or organizations reflecting viewpoints of different groups or tendencies in society’ (Hallin and Mancini, 2004: 29).","Baum and Groeling, 2008; Hallin and Mancini, 2004","plurality of viewpoints",NA,NA,NA,NA
+"165","006166@2013.nl","plu","Before addressing media pluralism in the two cases that were selected for this study, it is important to understand how the principle of pluralism is (or can be) reflected in the media networks and what issues such attempts at pluralism might engender. In the media studies literature, the concept of pluralism has primarily been used in a dichotomous sense. Although the concept of media pluralism can be treated on various levels and is also interpreted through many dichotomies or alternatives, the fundamental distinction on which all others are based is between external and internal pluralism. According to Gibbons (1998: 31), external pluralism refers to the ‘diversity of media sources’, whereas for Hallin and Mancini (2004: 29), external pluralism is the kind ‘achieved at the level of the media systems as a whole, through the existence of a range of media out- lets or organizations reflecting the points of view of different groups and tendencies in society’. Klimkiewicz, however, claims that Hallin and Mancini’s definition of external pluralism might better suit the concept of structural media pluralism, given that ‘[t]he external/internal dichotomy has been drawn from the perspective of a single media orga- nization, not the media system as a whole’ (Klimkiewicz, 2010: 907).
+Internal pluralism pertains to the level of the ‘diversity of media contents available to the public’ (Klimikiewicz, 2009: 46) or to the ‘pluralism achieved within each individual media outlet or organization’ (Hallin and Mancini, 2004: 29). There is greater consensus regarding the level at which internal pluralism occurs. 
+
+in Doyle’s view, internal pluralism pertains to the diversity of the output (referring to the media content), whereas external pluralism refers to the diversification of media ownership (Doyle, 2002).","Gibbons (1998; Hallin and Mancini (2004;(Klimkiewicz, 2010);Doyle, 2002",NA,NA,NA,NA,NA
+"166","006563@2016.nl","plu","Following Dahl’s classic definition of democracy (DAHL, 1971), I address two critical roles of the media: pluralism and access to diverse and independent sources of information. More than the simple expression of social diversity, pluralism empowers citizens to participate effectively in politics. Pluralism is directly linked with diversity of opinion and other dimensions of democracy, since freedom of expression gives it a concrete, demonstrable existence","DAHL, 1971",NA,NA,NA,NA,NA
+"167","006793@2017.nl","plu","This generates a form of internal pluralism: That is, a variety of views are represented within each broadcasting outlet. In contrast, newsprint industries are not subject to such a requirement and outlets have more typically become identified with a particular view with the result that pluralism is external to the outlet and arises from the variety of views across all outlets in the market. ",NA,NA,NA,NA,"market concentration",NA
+"168","006886@2017.nl","plu","Media pluralism refers to the diversity of opinions that each media actor publishes, i.e. internal plurality (see Battaggion and Vaglio 2012). A related concept is media plurality, which is associated with the diversity of media actors in the media market, i.e. external plurality. In this paper, we focus more on media pluralism. Both media plurality and media pluralism are thought to be essential for democracy, since the media industry has an important weight in the political process, due to the considerable influence it can have on the public opinion.
+
+In order to analyze the relationship between market structure and media pluralism, we adopt the standard model of media pluralism, the Hotelling model (see Gabszewicz et al. 2001).
+
+Following Garcia Pires (2013, 2014), we then denote by ki the media pluralism scope of media firm i, which equals the length of the Hotelling line covered, i.e. 0􏰑ki 􏰑1,withi 1⁄4 L;Runderduopoly(and0􏰑k􏰑1undermonopoly).PointkL isthe end point of the media pluralism scope of media firm L.
+
+In this paper, we are interested in media firms’ incentives to provide media pluralism, i.e. to follow a multi-ideology strategy. When deciding on media pluralism, media firms face a trade-off between the costs and the benefits of adapting news to readers’ political preferences.","Battaggion and Vaglio 2012; Gabszewicz et al. 2001","","","","",""
+"169","007415@2011.nl","plu","The definition of pluralism can be found in article 29 of the 1986 Act.
+Furthermore, on the basis of this Act, French legislation dealt with both external pluralism (limits on ownership, on the number of licences, on au- dience reach and on audience) and internal pluralism."," article 29 of the 1986 Act (French legislation)","","","","",""
+"170","007927@2007.nl","plu","Pluralism of the media is considered by most experts to be one vital aspect of freedom of expression. Citing Doyle (2002: 11), once again, ‘pluralism is generally associated with diversity in the media; the presence of a number of different and independent voices, and of differing political opinions and representations of culture within the media’. There are two types of pluralism: external or structural pluralism and internal pluralism. External pluralism relates to the diversity of ownership within a specific market. It is achieved when there is a plurality of broadcasters and outlets in a sector. Internal pluralism refers to the diversity of output. It is achieved when extensive coverage and diversity of programming are provided by media outlets. Restrictions on media ownership are not sufficient in themselves to guarantee diversity of output reflecting different political and social views, and other policy instruments should be used to encourage greater internal pluralism (i.e. strong and independent media regulators) (Doyle 2002: 12; Venice Commission 2005: 11).","Doyle (2002)","","","","",""
+"171","008152@2010.nl","plu","For its theoretical framework, this article follows Doyle’s (2002) and the Council of Europe’s (1994) definitions of pluralism, understood as the concurrence between internal and external pluralism. Internal pluralism refers to the diversity of media content offering independent voices, diverse political opinions, and different representations of citizens in the media; whereas external pluralism refers to the diversity of media owners, reflected both by the plurality of independent and autonomous media. Therefore, the idea of pluralism encompasses and requires both a diversity of media content and a diversity of media owners. However, this article will focus on external pluralism through regulation and media policy, as well as on its impact on the Spanish media system. It will study the evolution of media regulation and its impact on different media, rather than the diversity of content offered to the general public. ","Doyle (2002), Council of Europe (1994)","","","","",""
+"172","008153@2010.nl","plu","The legal and institutional provisions regulating public service radio and TV aim at internal pluralism, qualitative pluralism in media content, for example; while private broadcasting regulations aim at external pluralism, such as a quantitative pluralism of media ownership.
+
+The regulation of broadcasting in Germany features two major divides: one concerning the separate spheres of public service—internal pluralism and private broadcasting—external pluralism regulatory principles; and another divide of absolute outlet number—audience share ownership regulation in the private sector.","","","","","",""
+"173","008800@2006.nl","plu","Does pluralism mean that anything goes? And what exactly are the criteria for stopping the potentially endless multiplication of valid ideas? Even the best known proponent of ‘radical pluralism’ in political philosophy, Chantal Mouffe (2000), explicitly denies the type of extreme plu- ralism that valorises all forms of difference and espouses heterogeneity without any lim- its, because for her, such pluralism crucially misses the dimension of the political. Be- cause of its refusal to acknowledge the relations of power involved in the all ‘construc- tions of differences’, such naïve pluralism is actually compatible with the liberal eva- sion of politics, converging with the typical liberal illusion of a pluralism without an- tagonism (ibid: 20).","Chantal Mouffe (2000","","","","",""
+"174","000143@2018.nl","ser","By automated serendipity,
+we mean forms of algorithmic selection that expose people to news sources they
+would not otherwise have used. This concept is distinct from incidental exposure
+(where people are shown news whilst doing other things), because it describes what
+people are exposed to, rather than whether they are exposed to it or not, and because
+it can occur as part of intentional news exposure or when people are exposed to news
+incidentally.",NA,NA,NA,NA,NA,NA
+"175","002524@2015.nl","ser","Some authors have proposed a new goalpost for media governance to facilitate diversity experience: Serendipity (i.e., chance encounters with the unknown) is suggested as a fitting description of how diversity experience on the Internet should be characterized (André, Schraefel, Teevan, & Dumais, 2009; Dantonio, 2010).
+
+serendipitous encounters require a specific forma mentis to recognize the value of random encounters (cf. Makri & Blandford, 2012).","André, Schraefel, Teevan, & Dumais, 2009; Dantonio, 2010;Makri & Blandford, 2012","","","","",""
+"176","002788@2015.nl","ser","There is no agreed definition of the word ‘serendipity.’ Often referred to as a ‘happy accident,’ the word was coined by Horace Walpole after a fairy tale – ‘The Three Princes of Serendip,’ in which the princes were “always making discoveries by accidents and sagacity, of things they were not in quest of.” (Merton & Barber, 2004, pp. 1- 2). When we asked people to explain what the word meant to them (see Makri & Blandford, 2012), we found that serendipitous experiences involved three ‘essential ingredients’: unexpected circumstances (the ‘accident’), an insightful ‘aha’ moment (the ‘sagacity’) and a valuable or potentially valuable outcome (the ‘happy’). This outcome must also be unanticipated as “no discovery of a thing you are looking for comes under this description [Walpole’s emphasis]” (Merton & Barber, 2004, p. 2).
+
+We therefore define ‘coming across information serendipitously’ as ‘finding useful or potentially useful information unexpectedly – either when not looking for information at all, when looking for information about something else or when looking for information with no particular aim in mind.’ ","Merton & Barber, 2004; Makri & Blandford, 2012",NA,NA,NA,NA,NA
